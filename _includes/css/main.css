@@ -10,6 +10,7 @@ body{
 }
 
 p {
+  direction: rtl;
   text-align: justify;
   text-justify: inter-character;
   font-size: 1em;
