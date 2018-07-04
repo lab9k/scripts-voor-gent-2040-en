@@ -10,6 +10,8 @@ title: Bem (31 jaar)
 
 ## Brief aan zijn moeder in Kenia
 
+![Bem]({{ site.baseurl }}/images/Bem.jpg)
+
 Lieve mama, 
 
 Het is alweer veel te lang geleden dat ik je nog schreef. Er is intussen heel wat gebeurd. Ik zit immers niet langer in het vluchtelingenkamp in Brussel, maar verhuisde enkele maanden geleden naar Gent, een stad enkele tientallen kilometers van Brussel. Ik woon er samen met Rudo – die je nog wel kent van vroeger uit ons dorp – en een aantal andere ‘nieuwe Gentenaars’ in een leegstaand pand dat we hebben omgebouwd tot een behoorlijk knusse leef- en woonplek. Mama, na al die jaren van instabiliteit heb ik eindelijk het gevoel me opnieuw wat nuttig te kunnen maken en iets te betekenen! 

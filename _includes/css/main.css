@@ -10,9 +10,9 @@ body{
 }
 
 p {
-  direction: rtl;
   text-align: justify;
-  text-justify: inter-character;
+  word-break: break-word;
+  text-justify: inter-ideograph;
   font-size: 1em;
   font-weight: 400;
   line-height: 1.6em;
@@ -272,7 +272,6 @@ div.contributors{
 
 }
 div.section-heading{
-  text-align:left;
   padding:15px 0px;
 }
 
@@ -330,7 +329,7 @@ div.introduction{
 .chapter-text h2,
 .chapter-text h3,
 .chapter-text h4{
-  margin-top:50px;
+  margin-top:10px;
 }
 
 .chapter-text p {
@@ -573,18 +572,20 @@ div.introduction{
 }
 
 .clarification {
+  direction: rtl;
   color: #e72e7a;
   padding-left: 80px;
 }
 
 .vision {
+  direction: rtl;
   background-color: #ffeeee;
   padding: 10px;
   padding-left: 80px;
 }
 
 .introduction h1 {
-  line-height: 5px;
+  line-height: 1em;
 }
 
 .quote {
@@ -599,4 +600,8 @@ div.introduction{
 
 .chapter-intro {
   font-weight: 700;
+}
+
+.chapter-text img {
+  width: 100%;
 }

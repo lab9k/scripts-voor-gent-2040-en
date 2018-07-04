@@ -7,6 +7,8 @@ permalink: /lokale-wacht/
 title: Lokale Wacht
 ---
 
+![Lokale Wacht banner]({{ site.baseurl }}/images/Ruimte_3.jpg)
+
 Gentenaars zetten zich maximaal in voor het eigen lokaal welzijn en ondersteunen elkaar met gemeenschapsinitiatieven terwijl de levensstandaard onder druk staat. Het transparante digitale monitoring- en het credit-systeem dat door de overheid en lokale gemeenschappen gebruikt wordt, stimuleert een gestandaardiseerde levensloop waarin binnen de lijntjes gekleurd wordt. Die context leidt tot een grote solidariteit in de publieke ruimtes, maar verborgen achter de schone schijn komt die solidariteit soms onder druk te staan door gevoelens van jaloezie of stiekeme op persoonlijk gewin gerichte activiteiten. 
 
 **TECHNOLOGIE:** Technologische vernieuwing moet helpen om gevestigde waarden en werkwijzen in stand te houden. Innovatie staat ten dienste van het status quo. Daarbij gaat er specifieke aandacht naar technologie om de lokale economie efficiënt te laten werken, waaronder de digitale netwerken die micro-ondernemers verenigen.  Technologische netwerken worden ook ingezet voor allerlei huishoudelijke en zorgtaken en ondersteunen een sociaal

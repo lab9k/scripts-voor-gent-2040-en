@@ -10,6 +10,8 @@ title: Sofia (42 jaar)
 
 ## Dagboekfragment van een vrijwilligster
 
+![Sofia]({{ site.baseurl }}/images/Sofia.jpg)
+
 5 februari 2040
 Credits: 9,2
 

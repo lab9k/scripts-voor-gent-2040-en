@@ -8,6 +8,7 @@ title: Kompas
 ---
 
 "Wie had gedacht dat je in dit scenario nog zo veel zaken zou kunnen vinden die nog niet eens zo slecht zijn. Ik wil daar wel eens wonen, in die wereld."
+{:.quote}
 
 De deelnemers aan dit project gaven vier grote streefdoelen aan in hun discours over een wenselijke toekomst:
 
@@ -22,10 +23,10 @@ De kompassen hieronder geven voor elk van de vier streefdoelen weer wat karakter
 
 Dit deel biedt een overzicht van de verschillende producten en diensten die kunnen bijdragen aan het bereiken van specifieke onderdelen van de visies voor Gent in 2040 die aan bod kwamen in het traject. Het geeft een indruk van de bedoelde én onbedoelde effecten die bepaalde maatregels, houdingen of gedragingen met zich mee kunnen brengen. Vraagt u zich af wat er allemaal tussen de hedendaagse situatie en het waarmaken van een visie ligt? Dan kan u zich oriënteren aan de hand van onze kompassen.  
 
-Was u even het Noorden kwijt?
+**Was u even het Noorden kwijt?**
 
-kom·pas (het; o; meervoud: kompassen)
+**1. kom·pas (het; o; meervoud: kompassen)**
 
-instrument dat de magnetische meridiaan (het Noorden) aanwijst (…) dient ter bepaling van de richting waarin men zich ten opzichte daarvan beweegt.
+**2. instrument dat de magnetische meridiaan (het Noorden) aanwijst (…) dient ter bepaling van de richting waarin men zich ten opzichte daarvan beweegt.**
 
-figuurlijk richtsnoer, richtlijn, beginsel
+**figuurlijk richtsnoer, richtlijn, beginsel**

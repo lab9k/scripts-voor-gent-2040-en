@@ -8,6 +8,8 @@ permalink: /kompas/stedelijke-ruimte/
 title: Kompas Stedelijke Ruimte
 ---
 
+![Stedelijke ruimte graphic]({{ site.baseurl }}/images/Ruimte.jpg)
+
 **GIGANTEN LIFT** De stedelijke ruimte is voor het overgrote deel geprivatiseerd. De signalisatie, de wegen en paden, de gedeelde elektrische voertuigen en de bijhorende datastromen worden uitgebaat door de sterke internationale bedrijven die de onderliggende technologie ontwikkelden. Deze datastromen, gecombineerd met die van persoonlijke gezondheidsmonitoring en kalenders, sturen bots en drones aan die voor dienstverlening instaan. De veiligheid, in handen van geprivatiseerde politiediensten en security agentschappen, wordt door Artificiële Intelligentie verzekerd. Oningevulde plekken zijn er haast niet in de stad. Parkjes werden indoor recreatieruimtes en de winkelstraten zijn gereduceerd tot gevels en etalages waarachter enkel opslag zit. De winkels zelf werden vervangen door overdekte ruimtes voor try-and-buy retail aan de rand van de stad.
 
 **KLIMAAT CASCADE** Het beheer en het gebruik van publieke ruimte wordt voor een groot deel aan bottom-up initiatieven overgelaten. De economische toestand heeft tot gevolg dat sommige wijken van Gent een verloederd aanschijn hebben. Publieke infrastructuur wordt zo goed en zo kwaad als het gaat onderhouden, maar daarbij wordt prioriteit gegeven aan digitale connectiviteit die een voorwaarde vormt voor economische activiteiten. Andere publieke infrastructuur wordt haast niet meer vernieuwd: als ze al stand houdt in de moeilijke omstandigheden, is dat voldoende.

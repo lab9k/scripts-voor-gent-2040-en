@@ -8,6 +8,8 @@ permalink: /kompas/welzijn/
 title: Kompas Welzijn
 ---
 
+![Welzijn graphic]({{ site.baseurl }}/images/Welzijn.jpg)
+
 **GIGANTEN LIFT** Het fysieke en materiële welzijn van de bevolking is relatief hoog. De productiviteit is groot, de aanhoudende stroom van goederen en diensten wordt beheerd door cybersystemen en gretig afgenomen door leden van de gelaagde middenklasse. De snel draaiende economie zorgt voor een hoge tewerkstellingsgraad. Mensen worden steeds ouder door vooruitgang in de bio-medische wetenschap en, niet minder belangrijk, de medische opvolging die door gepersonaliseerde virtuele assistenten geboden wordt. Mentaal welzijn is niet voor iedereen zo vanzelfsprekend, vooral armere ouderen handhaven zich moeilijk in deze commerciële wereld. 
 
 **KLIMAAT CASCADE** Omdat energievoorzieningen de stad en haar inwoners voor problemen stellen, is het moeilijk een goede levensstandaard voor iedereen waar te maken. De grote instroom van klimaatvluchtelingen verhoogt de druk op welzijn nog meer. De werkloosheidsgraad in Gent is minder hoog dan elders in het land maar nog steeds komt een groot deel van de bevolking niet aan de bak. Mensen nemen het heft in eigen handen en bundelen de krachten in lokale coöperatieven. Micro-ondernemers kunnen een inkomen verzekeren met hun activiteiten maar de situatie van micro-taskers is minder goed. De verzwakte overheid geeft deze groepen noodgedwongen vrij spel in een poging om kleinschalige oplossingen van onderuit waar te maken. 
