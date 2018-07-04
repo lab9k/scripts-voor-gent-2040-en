@@ -9,6 +9,13 @@ body{
   font-size: 18px;
 }
 
+p {
+  text-align: justify;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+
 h1, h2, h3, h4, h5 {
   font-family: 'Assistant';
   font-weight: 700;
@@ -569,5 +576,6 @@ div.about-book{
 }
 
 .side-note {
-  color: green;
+  color: #e72e7a;
+  text-align: right;
 }

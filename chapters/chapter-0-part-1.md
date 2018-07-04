@@ -8,7 +8,8 @@ permalink: /samenvatting/
 title: Korte Samenvatting
 ---
 
-## S1. GIGANTEN LIFT
+**S1. GIGANTEN LIFT**
+
 Een Europees en wereldwijd economisch groeibeleid
 heeft de dominante positie van de technologiegiganten en andere corporaties in het oligopolie gesterkt. De
 levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen vinden het heel normaal (en eigenlijk ook
@@ -21,7 +22,8 @@ omgeving, bedreigingen en kansen, die vandaag nog
 weinig zichtbaar zijn.
 {:.side-note}
 
-## S2. KLIMAAT CASCADE
+**S2. KLIMAAT CASCADE**
+
 Snelle en ingrijpende klimaatverandering heeft een verstorend domino-effect gehad op de wereldeconomie.
 Coöperatieven van micro-ondernemers in allerlei sectoren
 steunen op technologische platformen voor hun werk. De
@@ -29,7 +31,8 @@ samenhorigheid onder Gentenaars is groot. De overheid
 staat in voor de infrastructuur voor connectiviteit en geeft
 de bottom-up initiatieven vrij spel om kleinschalige oplossingen voor grootschalige problemen waar te maken. 
 
-## S3. LOKALE WACHT
+**S3. LOKALE WACHT**
+
 Gentenaars zetten zich maximaal in voor het eigen lokaal
 welzijn en ondersteunen elkaars bottom-up initiatieven
 in een situatie waar de levensstandaard onder druk staat.
@@ -39,7 +42,8 @@ Lokale overheden zijn, onder andere door middel van
 uitgebreide digitale overheidsdiensten, sterk vervlochten
 met het lokale leven.
 
-## S4. ECLECTISCHE STROOM
+**S4. ECLECTISCHE STROOM**
+
 Winst is een concept uit het verleden, tot spijt van sommigen die hun sociaal-economische voorsprong hierdoor
 moesten opgeven. Dankzij de inzet van overheden
 op verregaande technologische ondersteuning
@@ -48,7 +52,8 @@ ingezet op voortdurende technologische, sociale
 én maatschappelijke innovatie. Hoewel klimaatverandering haar gevolgen laat voelen, is de stad
 zelf volledig klimaatneutraal.
 
-## HET KOMPAS
+**HET KOMPAS**
+
 Geen van deze toekomsten zal wellicht ooit in de geschetste
 vorm werkelijkheid worden. Maar sommige van hun kenmerkende eigenschappen zullen zich, op kortere of langere
 termijn, wel aanbieden in Gent en de wereld. Als we goed kijken, kunnen we ze herkennen. Dit document biedt daarom
@@ -59,7 +64,8 @@ van drijvende krachten, bouwstenen en hun consequenties.
 De mogelijke toekomsten waarnaar we willen evolueren,
 liggen immers niet zomaar voor ons uitgestald.
 
-## GELAAGDE WERKELIJKHEDEN
+**GELAAGDE WERKELIJKHEDEN**
+
 In elk van de geschetste toekomstbeelden, ontmoeten we
 twee Gentenaars die hun leven leiden in deze werkelijkheden. Om daarna nog dieper te graven, gebruiken we de techniek van Causal Layered Analysis . Dat laat ons toe om eerst
 feiten te beschrijven die aan de oppervlakte zichtbaar zijn.
@@ -68,7 +74,8 @@ we de wereldbeelden die de basis voor deze systemen vormen; en de mythes en meta
 steunen. Zo maken we de diepgewortelde uitgangspunten
 van onze toekomstbeelden voor Gent expliciet.
 
-## EN UW TOEKOMSTBEELDEN?
+**EN UW TOEKOMSTBEELDEN?**
+
 Tenslotte doen wij een voorstel voor een vijfde toekomstbeeld met bijhorend kompas en gelaagde weergave. Dit is
 meer dan een samenvoeging van wat vooraf ging, het is
 een herinterpretatie met nieuwe combinaties van bouwstenen. [drie regels samenvatting integratie]
