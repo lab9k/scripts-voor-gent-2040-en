@@ -438,33 +438,6 @@ div.introduction{
   color: #fff;
 }
 
-.author{
-  margin-top:30px;
-  border-bottom:solid 1px #999;
-  padding-bottom:20px;
-}
-.author img{
-  margin-bottom:10px;
-  width: 100px;
-}
-.author .name{
-  font-family: 'Assistant';
-  font-size:18px;
-}
-
-.author .job-title,
-.author .employer,
-.author .about {
-  font-family: 'Assistant';
-  font-size: 14px;
-  line-height: 18px;
-}
-
-.author .job-title,
-.author .employer {
-  color: #777;
-}
-
 .author .twitter{
   background-image: url("{{ site.baseurl }}/images/twitter.png");
   background-repeat: no-repeat;
@@ -535,21 +508,6 @@ div.introduction{
 .chapter-nav li.current-page{
   font-weight:bold;
   color:#fff;
-}
-.email{
-  text-align:center;
-
-}
-
-.return-top {
-  display: none;
-  cursor: pointer;
-  position: absolute;
-  top: 26px;
-  right: 0;
-  font-size: 10px;
-  font-family: 'Assistant';
-  cursor: pointer;
 }
 
 .intro {
