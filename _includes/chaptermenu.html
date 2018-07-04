@@ -1,0 +1,21 @@
+<div class="chapter-nav">
+  <div class="close">&rarr;</div>
+  <div class="clear"></div>
+  <ul >
+    {% for p in site.pages %}
+      {% if p.layout == "chapter" %}
+    <a href= {{ p.url | prepend:site.baseurl }} ><li 
+                                {% if page.url == p.url %}
+                                class="current-page"
+                                {% endif %}
+                                >
+        {% if p.part == 1 %}
+          <div class="nav-part">{{ p.title }}</div>
+        {% else %}
+          <div>{{ p.title }}</div>
+        {% endif %}
+        </li></a>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div> 

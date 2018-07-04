@@ -1,0 +1,5 @@
+destination: '_site'
+baseurl: '/scripts-voor-gent-2040'
+name: Vier scripts voor Gent 2040
+markdown: rdiscount
+pygments: true
