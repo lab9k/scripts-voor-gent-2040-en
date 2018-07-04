@@ -7,7 +7,7 @@ permalink: /giganten-lift/
 title: Giganten Lift
 ---
 
-![Giganten lift banner]({{ site.baseurl }}/images/Ruimte_2.jpg)
+<div class="row"><div class="col-md-9">![Giganten lift banner]({{ site.baseurl }}/images/Ruimte_2.jpg)</div></div>
 
 Het Europese economisch groeibeleid heeft de technologie-giganten jarenlang gevoed. De uitbreiding van hun activiteiten en fusies met corporaties uit andere sectoren, heeft hun dominantie
 doen toenemen. Ze vormen samen met enkele dozijnen multinationals uit het bankwezen, de
