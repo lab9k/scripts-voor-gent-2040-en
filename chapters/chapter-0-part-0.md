@@ -35,7 +35,7 @@ mobiele stad, woonstad, ondernemende stad, lerende
 en scheppende stad, veilige en leefbare stad, samen stad,
 stadsorganisatie.
 
-**Welkom in Gent 2040**. Met een horizonscan, de input
+**Welkom in Gent 2040**. Met een horizonscan*{:.need-clarification}, de input
 van thematische experten, een reeks toekomstsessies,
 een conferentie en workshops met ambtenaren van de
 stad Gent, verzamelden we de bouwstenen voor vier zeer
@@ -48,7 +48,7 @@ Horizonscannen doe je door in de media en andere
 kanalen systematisch te zoeken naar signalen die je
 kunnen helpen te anticiperen op veranderingen in de
 omgeving, bedreigingen en kansen, die vandaag nog
-weinig zichtbaar zijn.
+weinig zichtbaar zijn.{:.clarification}
 
 **Welkom in Gent 2040**. Bij het uitschrijven van deze
 scenario’s hielden we rekening met wat als ‘wenselijk’ naar

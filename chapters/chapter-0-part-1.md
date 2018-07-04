@@ -8,19 +8,21 @@ permalink: /samenvatting/
 title: Korte Samenvatting
 ---
 
+<span>"</span>Niemand weet wat de toekomst brengt. Toch kunnen we niet anders dan er bij stil te staan.<span>"</span>
+{:.quote}
+
 **S1. GIGANTEN LIFT**
 
 Een Europees en wereldwijd economisch groeibeleid
-heeft de dominante positie van de technologiegiganten en andere corporaties in het oligopolie gesterkt. De
-levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen vinden het heel normaal (en eigenlijk ook
+heeft de dominante positie van de technologiegiganten en andere corporaties in het <span class="need-clarification">oligopolie*</span> gesterkt. De levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen vinden het heel normaal (en eigenlijk ook
 best handig) dat ze door machines getraceerd worden. De overheid heeft nog een minimaal takenpakket. Ze treedt op als een facilitator voor de grote economische actoren, ten voordele van ecologisch duurzame groei. 
 
-Horizonscannen doe je door in de media en andere
+*Horizonscannen doe je door in de media en andere
 kanalen systematisch te zoeken naar signalen die je
 kunnen helpen te anticiperen op veranderingen in de
 omgeving, bedreigingen en kansen, die vandaag nog
 weinig zichtbaar zijn.
-{:.side-note}
+{:.clarification}
 
 **S2. KLIMAAT CASCADE**
 

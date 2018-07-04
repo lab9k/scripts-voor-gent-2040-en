@@ -12,6 +12,7 @@ doen toenemen. Ze vormen samen met enkele dozijnen multinationals uit het bankwe
 voedingsindustrie, de transportsector, de chemische en farmaceutische industrieën - een sterk
 oligopolie. Gentenaars leven, net als andere Europeanen, steeds langer en hun materiële mogelijkheden nemen toe. De levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen
 vinden het heel normaal (en eigenlijk ook best handig) dat ze door machines getraceerd worden.
+{:.chapter-intro}
 
 **TECHNOLOGIE:** Globale, door GIGANTEN gestuurde digitale communicatietechnologie is overal aanwezig.
 Technologische innovatie maakt duurzame productie en
@@ -27,17 +28,18 @@ neemt de vergrijzing grote proporties aan. Ouderen die
 niet meer kunnen meedraaien, belanden echter nog vaak
 in armoede. 
 
-Een cybersysteem is een geïntegreerde combinatie
+**ECONOMIE:** Onderzoek, ontwikkeling en onderwijs worden gefinancierd door private belanghebbenden. De
+lokale universiteit is nauw verbonden met commerciële
+belangen. In industriële productie en de diensten-industrie primeren robotisering en automatisering, <span class="need-clarification">cybersystemen*</span> dirigeren de processen. Digitale platformen vormen
+de omgeving van nagenoeg alle economische transacties.
+
+*Een cybersysteem is een geïntegreerde combinatie
 van faciliteiten, materialen, personeel, procedures en
 communicatie voor het leveren van diensten, gestuurd
 door algoritmes. Cybersystemen kunnen bijvoorbeeld
 zakelijke transacties, productie- en distributiecontrole
-of toegangscontrole leveren. 
-
-**ECONOMIE:** Onderzoek, ontwikkeling en onderwijs worden gefinancierd door private belanghebbenden. De
-lokale universiteit is nauw verbonden met commerciële
-belangen. In industriële productie en de diensten-industrie primeren robotisering en automatisering, cybersystemen dirigeren de processen. Digitale platformen vormen
-de omgeving van nagenoeg alle economische transacties.
+of toegangscontrole leveren.
+{:.clarification}
 
 **ECOLOGIE:** Wereldwijde corporaties sloten een onderling
 klimaatakkoord dat nu al 20 jaar standhoudt. Zo wordt de
@@ -60,9 +62,10 @@ als lokale facilitatoren (spreekbuis, contactpunt, logistieke
 coördinatie, uitvoering van territoriale reglementering,
 conciërge) voor de corporaties. Die corporaties hebben
 nagenoeg alle voorheen openbare diensten in handen. De
-weinige overgebleven publieke ruimte wordt als commons
+weinige overgebleven publieke ruimte wordt als <span class="need-clarification">commons*</span>
 ter beschikking gesteld aan de burgers, niet ingevuld door
 een overheid die zich steeds meer terug getrokken heeft.
 
-Volgens Nobelprijswinnaar Elinor Ostrom zijn commons “gedeelde hulpbronnen (of platforms) die worden
+*Volgens Nobelprijswinnaar Elinor Ostrom zijn commons “gedeelde hulpbronnen (of platforms) die worden
 gecreëerd en verzorgd door een gebruikersgemeenschap, volgens haar eigen afspraken, regels en normen.”
+{:.clarification}

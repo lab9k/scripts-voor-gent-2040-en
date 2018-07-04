@@ -16,9 +16,13 @@ p {
   line-height: 1.6em;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h3, h4, h5 {
   font-family: 'Assistant';
   font-weight: 700;
+}
+
+h2 {
+  font-weight: 300;
 }
 
 a, a:visited{
@@ -106,7 +110,7 @@ div.header{
   z-index:0;
   position:relative;
   overflow:hidden;
-  padding-bottom:100px;
+  padding-bottom:50px;
 }
 div.about {
   
@@ -254,11 +258,11 @@ div.city-graph img {
   width:100%;
 }
 
-div.contributors,
+/* div.contributors,
 div.critics,
 div.about-book {
   padding: 50px 0px 70px;
-}
+} */
 
 div.contributors{
   background:#f3f4f3;
@@ -266,9 +270,8 @@ div.contributors{
 
 }
 div.section-heading{
-  text-align:center;
-  padding:30px 0px;
-  text-transform: uppercase;
+  text-align:left;
+  padding:15px 0px;
 }
 
 div.section-heading img {
@@ -302,26 +305,11 @@ div.contributors div.name{
 }
 
 
-div.critics{
+div.introduction{
   background:#B8EBBC;
   color:#404040;
   padding-bottom: 50px;
 }
-div.critics .quote {
-  padding: 10px;
-}
-div.critics .attribution{
-  text-align:right;
-  font-family: 'Assistant';
-  padding-bottom:25px;
-}
-
-div.about-book{
-  background:#EBEBB8;
-  color:#404040;
-}
-
-
 
 .site{
   width:780px;
@@ -567,15 +555,46 @@ div.about-book{
 
 .partners img {
   width: 70%;
-  vertical-align: middle;
 }
 
 .partners .logo-container {
+  padding-top: 25px;
+  padding-bottom: 25px;
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  justify-content: center
 }
 
-.side-note {
+.need-clarification {
   color: #e72e7a;
-  text-align: right;
+  text-decoration: underline;
+}
+
+.clarification {
+  color: #e72e7a;
+  padding-left: 80px;
+}
+
+.vision {
+  background-color: #ffeeee;
+  padding: 10px;
+  padding-left: 80px;
+}
+
+.introduction h1 {
+  line-height: 5px;
+}
+
+.quote {
+  font-size: 1.4em;
+  font-weight: 200;
+  line-height: 1em;
+}
+
+.quote span {
+  font-size: 1.5em;
+}
+
+.chapter-intro {
+  font-weight: 700;
 }
