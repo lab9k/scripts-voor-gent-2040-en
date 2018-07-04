@@ -19,6 +19,7 @@ kanalen systematisch te zoeken naar signalen die je
 kunnen helpen te anticiperen op veranderingen in de
 omgeving, bedreigingen en kansen, die vandaag nog
 weinig zichtbaar zijn.
+{:.side-note}
 
 ## S2. KLIMAAT CASCADE
 Snelle en ingrijpende klimaatverandering heeft een verstorend domino-effect gehad op de wereldeconomie.
