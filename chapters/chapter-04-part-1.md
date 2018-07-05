@@ -5,6 +5,7 @@ part: 1
 chapter: 4
 permalink: /eclectische-stroom/
 title: Eclectische Stroom
+chaptermarker: true
 ---
 
 ![Eclectische Stroom banner]({{ site.baseurl }}/images/Ruimte_1.jpg)

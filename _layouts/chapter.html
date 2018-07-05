@@ -18,7 +18,7 @@ layout: default
     <h4 class="chapter-number">Deel {{page.part}}</h4>
     {% endif %}
     
-    {% if page.chapter != 0 and page.chapter != 99 and page.ispart != true %}
+    {% if page.chapter != 0 and page.chapter != 99 and page.ispart != true and page.chaptermarker == true %}
     <h4 class="chapter-number">Hoofdstuk {{page.chapter}}</h4>
     {% endif %}
 

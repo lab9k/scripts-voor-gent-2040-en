@@ -5,6 +5,7 @@ part: 1
 chapter: 1
 permalink: /giganten-lift/
 title: Giganten Lift
+chaptermarker: true
 ---
 
 ![Giganten lift banner]({{ site.baseurl }}/images/Ruimte_2.jpg)

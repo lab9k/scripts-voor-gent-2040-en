@@ -5,6 +5,7 @@ part: 1
 chapter: 2
 permalink: /klimaat-cascade/
 title: Klimaat Cascade
+chaptermarker: true
 ---
 
 ![Klimaat Cascade banner]({{ site.baseurl }}/images/Ruimte_4.jpg)

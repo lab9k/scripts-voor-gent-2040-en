@@ -5,6 +5,7 @@ part: 1
 chapter: 5
 permalink: /kompas/
 title: Kompas
+chaptermarker: true
 ---
 
 "Wie had gedacht dat je in dit scenario nog zo veel zaken zou kunnen vinden die nog niet eens zo slecht zijn. Ik wil daar wel eens wonen, in die wereld."
