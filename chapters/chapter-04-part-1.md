@@ -6,6 +6,7 @@ chapter: 4
 permalink: /eclectische-stroom/
 title: Eclectische Stroom
 chaptermarker: true
+indentlevel: 2
 ---
 
 ![Eclectische Stroom banner]({{ site.baseurl }}/images/Ruimte_1.jpg)

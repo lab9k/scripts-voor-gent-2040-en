@@ -6,6 +6,7 @@ chapter: 0
 ispart: true
 permalink: /samenvatting/
 title: Korte Samenvatting
+indentlevel: 1
 ---
 
 <span>"</span>Niemand weet wat de toekomst brengt. Toch kunnen we niet anders dan er bij stil te staan.<span>"</span>

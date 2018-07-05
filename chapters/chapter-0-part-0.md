@@ -5,6 +5,7 @@ part: 0
 chapter: 0
 ispart: false
 permalink: /welkom-in-gent-2040/
+indentlevel: 1
 ---
 
 **Welkom in Gent 2040**. De toekomstverkenners van

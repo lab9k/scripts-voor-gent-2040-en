@@ -1,11 +1,11 @@
 ---
 layout: chapter
 author: 
-part: 2
+part: 3
 chapter: 0
 ispart: true
-permalink: /verkiesbare-toekomsten/
-title: Verkiesbare toekomsten
+permalink: /vier-scripts-voor-gent/
+title: Vier scripts voor Gent
 indentlevel: 1
 ---
 

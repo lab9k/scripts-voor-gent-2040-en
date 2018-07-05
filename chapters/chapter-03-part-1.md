@@ -6,6 +6,7 @@ chapter: 3
 permalink: /lokale-wacht/
 title: Lokale Wacht
 chaptermarker: true
+indentlevel: 2
 ---
 
 ![Lokale Wacht banner]({{ site.baseurl }}/images/Ruimte_3.jpg)

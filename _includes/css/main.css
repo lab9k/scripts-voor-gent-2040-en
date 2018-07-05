@@ -345,6 +345,19 @@ div.introduction{
   font-weight: 700;
 }
 
+.nav-indent-1 {
+  margin-left: 5px;
+}
+.nav-indent-2 {
+  margin-left: 10px;
+}
+.nav-indent-3 {
+  margin-left: 15px;
+}
+.nav-indent-4 {
+  margin-left: 20px;
+}
+
 .footer{
   background:#404040;
   color:#ccc;
@@ -505,7 +518,7 @@ div.introduction{
 }
 
 .home-button {
-  width: 40px;
+  width: 35px;
 }
 
 .footer-nav {

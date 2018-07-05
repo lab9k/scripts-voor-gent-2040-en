@@ -1,6 +1,10 @@
 <nav class="navbar navbar-default navbar-fixed-top bt-book-nav" role="navigation">
-  <div class="navbar-header">
-      <a href={{ "/" | prepend:site.baseurl }}><img class="home-button" src={{ "/images/home.svg " | prepend:site.baseurl }}></a>
+  <div class="navbar-header row">
+      <a href={{ "/" | prepend:site.baseurl }}>
+        {% if page.title != "Vier scripts voor Gent 2040" %}
+          <img class="home-button" src={{ "/images/home.svg " | prepend:site.baseurl }}></a>
+        {% endif %}
+      </a>
     <div class="nav navbar-nav navbar-right pull-right">
       <div class="menu-btn menu-icon"></div>
     </div>              

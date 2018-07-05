@@ -7,10 +7,9 @@
     <a href= {{ p.url | prepend:site.baseurl }} ><li 
                                 {% if page.url == p.url %}
                                 class="current-page"
-                                {% endif %}
                                 >
-        {% if p.part == 1 %}
-          <div class="nav-part">{{ p.title }}</div>
+        {% if p.indentlevel == 1 or p.indentlevel == 2 %}
+          <div class="nav-part nav-indent-{{p.indentlevel}}"> {{ p.title }} </div>
         {% else %}
           <div>{{ p.title }}</div>
         {% endif %}
