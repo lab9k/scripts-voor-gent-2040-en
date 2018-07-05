@@ -105,19 +105,17 @@ div.header{
   padding-bottom:50px;
 }
 
-@media only screen and (min-width: 200px) {
-  section.cover-image {
-    height: 45vh;
-    background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
-    background-size: 60%;
-  }
+section.cover-image {
+  height: 45vh;
+  background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
+  background-size: 70%;
 }
 
-@media only screen and (max-width: 200px) {
-  div.header{
-    height: 45vh;
-    background: blue url("{{ site.baseurl }}/images/Cover.jpg") no-repeat scroll center; 
-    background-size: 60%;
+@media screen and (max-width: 700px) {
+  div.cover-image {
+    height: 30vh;
+    background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat scroll center; 
+    background-size: 100%;
   }
 }
 
