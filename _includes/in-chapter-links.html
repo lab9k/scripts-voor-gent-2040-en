@@ -9,14 +9,14 @@
     {% if output_next == true and p.layout == "chapter" %}  
     <a href= {{ p.url | prepend:site.baseurl }}>
       {% if p.ispart == true %}
-        {{p.title}}
+        Volgende <!--<{{p.title}}>-->
       {% else %}
  
-        {% if p.chapter == 99 %}
+        <!-- {% if p.chapter == 99 %}
           APPENDIX
         {% else %}
           {{p.title}}
-        {% endif %}
+        {% endif %} -->
              
       {% endif %}
       &rarr; </a>
@@ -28,12 +28,12 @@
       {% if prev != null %}
         <a href= {{ prev.url | prepend:site.baseurl }}> &larr;
         {% if prev.ispart == true %}
-          PART {{prev.part}}
+          Vorige <!-- {{prev.title}} -->
         {% else %}
           {% if prev.part == 0 %}
-            INLEIDING
+            Inleiding
           {% else %}
-            {{prev.chapter}}
+            Vorige<!-- {{prev.title}} -->
           {% endif %}
 
         {% endif %}

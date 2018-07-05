@@ -5,7 +5,7 @@ part: 4
 chapter: 5
 ispart: true
 permalink: /kompas/duurzaamheid/
-title: Kompas Duurzaamheid
+title: Duurzaamheid
 ---
 
 ![Duurzaamheid graphic]({{ site.baseurl }}/images/Duurzaamheid.jpg)
