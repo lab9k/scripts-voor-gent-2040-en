@@ -17,7 +17,7 @@ gem install bundler
 gem install bundler jekyll
 ```
 
-* Type:
+* To serve the project locally:
 
 ``` shell
 bundle exec jekyll serve
@@ -29,7 +29,7 @@ or
 bundle exec jekyll serve --watch
 ```
 
-To build as changes are being made.
+to build as changes are being made.
 
 ## Github pages
 
