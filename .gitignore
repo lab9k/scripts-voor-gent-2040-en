@@ -4,6 +4,5 @@ _raw/
 .s3cfg
 _run.sh
 docs/
-_site/
 pdf/
 *.pdf

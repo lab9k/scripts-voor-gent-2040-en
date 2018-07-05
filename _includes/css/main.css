@@ -41,10 +41,6 @@ div.menu-btn:hover,
 div.clear{
   clear:both;
 }
-.bt-book-nav{
-  background-color: #b9e0ea;
-  height:90px;
-}
 
 div.menu-bar{
   padding:10px 0px;
@@ -58,7 +54,6 @@ div.menu-btn{
   margin-top: 12px;
 }
 .navbar-nav .menu-btn{
-  margin-top:22px;
   width: 235px;
 }
 div.menu-bar .menu-btn.menu-icon,
@@ -85,6 +80,8 @@ div.byline{
 div.navbar-header{
   max-width:980px;
   margin:0px auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
   float:inherit;
 }
 nav.navbar{
@@ -507,6 +504,5 @@ div.introduction{
 }
 
 .home-button {
-  margin: 14px;
-  width: 45px;
+  width: 40px;
 }
