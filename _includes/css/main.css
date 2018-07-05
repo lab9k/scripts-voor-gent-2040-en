@@ -84,12 +84,18 @@ div.navbar-header{
   padding-bottom: 12px;
   float:inherit;
 }
-nav.navbar{
+nav.navbar {
   transition:all 0.5s ease-in-out;
 }
-nav.navbar.withsidebar{
+nav.navbar.withsidebar {
   right:280px;
   transition:all 0.5s ease-in-out;
+}
+.navbar-ext-nav {
+  float: right;
+}
+.navbar-ext-nav ul {
+  list-style-type: none;
 }
 
 div.header{
