@@ -105,15 +105,24 @@ div.header{
   padding-bottom:50px;
 }
 
-section.cover-image {
+/* section.cover-image {
   height: 45vh;
   background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
   background-size: 70%;
+} */
+
+@media screen and (min-width: 950px) {
+  div.cover-image {
+    height: 45vh;
+    background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
+    background-size: 70%;
+    background-position-y: -5px;
+  }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 950px) {
   div.cover-image {
-    height: 30vh;
+    height: 45vw;
     background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat scroll center; 
     background-size: 100%;
   }
@@ -204,11 +213,6 @@ div.section-heading{
 
 div.section-heading img {
   width: 50px;
-}
-
-div.contributors .authors{
-  max-width:980px;
-  margin:auto;
 }
 
 div.contributors li {
@@ -450,7 +454,13 @@ div.introduction{
   padding-bottom: 25px;
   display: flex;
   align-items: center;
-  justify-content: center
+  justify-content: left;
+}
+
+@media screen and (max-width: 950px) {
+  .partners .logo-container {
+    justify-content: center;
+  }
 }
 
 .need-clarification {
@@ -494,8 +504,6 @@ div.introduction{
   max-height: 450px;
   width: 100%;
   height: auto;
-  /* max-width: 100%;
-  max-height: 100%; */
 }
 
 .home-button {
