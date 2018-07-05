@@ -14,13 +14,7 @@
 
       {{ content }}
 
-      <div class="footer">
-        <div class="content">
-          <p>
-            Digipolis Foresight &mdash;  2018 
-          </p>
-        </div>
-      </div>
+      {% include footer.html %}
 
       <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
       <script type="text/javascript" src= {{ "/js/jquery.scrollTo.min.js" | prepend:site.baseurl }} ></script>

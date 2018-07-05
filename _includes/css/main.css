@@ -507,3 +507,9 @@ div.introduction{
 .home-button {
   width: 40px;
 }
+
+.footer-nav {
+  list-style-type: none;
+  text-decoration: underline;
+  float: right;
+}
