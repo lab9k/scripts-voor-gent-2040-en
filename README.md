@@ -4,6 +4,19 @@
 
 * Clone this repository
 * Navigate to that directory using the terminal / command line
+* Make sure you have Ruby installed
+* Install the Bundler gem:
+
+``` shell
+gem install bundler
+```
+
+* Install the Jekyll gem:
+
+``` shell
+gem install bundler jekyll
+```
+
 * Type:
 
 ``` shell
