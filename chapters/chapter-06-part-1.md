@@ -5,7 +5,7 @@ part: 1
 chapter: 6
 permalink: /geslaagde-werkelijkheden/
 title: Geslaagde Werkelijkheden
-indentlevel: 2
+indentlevel: 1
 ---
 
 "Onze technologie zal haast onherkenbaar zijn maar het belangrijkste blijft wat we er mee doen."

@@ -6,6 +6,7 @@ chapter: 3
 ispart: true
 permalink: /lokale-wacht/sofia/
 title: Sofia (42 jaar)
+indentlevel: 3
 ---
 
 ## Dagboekfragment van een vrijwilligster

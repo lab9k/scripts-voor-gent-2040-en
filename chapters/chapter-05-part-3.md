@@ -6,6 +6,7 @@ chapter: 5
 ispart: true
 permalink: /kompas/verbondenheid/
 title: Verbondenheid
+indentlevel: 2
 ---
 
 ![Verbondenheid graphic]({{ site.baseurl }}/images/Verbondenheid.jpg)

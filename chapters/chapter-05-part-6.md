@@ -6,6 +6,7 @@ chapter: 5
 ispart: true
 permalink: /kompas/faciliterende-rol-van-overheid-en-technologie/
 title: Faciliterende rol
+indentlevel: 2
 ---
 
 ## Giganten Lift

@@ -6,6 +6,7 @@ chapter: 2
 ispart: true
 permalink: /klimaat-cascade/bem/
 title: Bem (31 jaar)
+indentlevel: 3
 ---
 
 ## Brief aan zijn moeder in Kenia

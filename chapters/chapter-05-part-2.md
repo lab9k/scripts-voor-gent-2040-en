@@ -6,6 +6,7 @@ chapter: 5
 ispart: true
 permalink: /kompas/welzijn/
 title: Welzijn
+indentlevel: 2
 ---
 
 ![Welzijn graphic]({{ site.baseurl }}/images/Welzijn.jpg)

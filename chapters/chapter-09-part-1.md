@@ -5,7 +5,7 @@ part: 1
 chapter: 9
 permalink: /colofon/
 title: Colofon
-indentlevel: 2
+indentlevel: 1
 ---
 
 **Redactie:**

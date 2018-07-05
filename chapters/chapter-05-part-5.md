@@ -6,6 +6,7 @@ chapter: 5
 ispart: true
 permalink: /kompas/stedelijke-ruimte/
 title: Stedelijke Ruimte
+indentlevel: 2
 ---
 
 ![Stedelijke ruimte graphic]({{ site.baseurl }}/images/Ruimte.jpg)

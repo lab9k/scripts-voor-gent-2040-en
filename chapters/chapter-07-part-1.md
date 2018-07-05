@@ -5,7 +5,7 @@ part: 1
 chapter: 7
 permalink: /over-aan-u/
 title: Over aan U
-indentlevel: 2
+indentlevel: 1
 ---
 
 In het voorgaande ontdekte u vier versies van Gent in 2014. Zij werden gepresenteerd via een beschrijving van de drijvende krachten die, door hun samenspel, de specifieke werelden vormgeven. We presenteerden u ook getuigenissen van telkens twee personages. Zo kreeg u een inkijk van onderuit: door de ogen van de mensen die in de gepresenteerde werelden leven, werken, betekenis geven. We schotelden u ook de kompassen voor, waardoor de verschillen en gelijkenissen tussen de vier versies van Gent 2040 zichtbaar werden. De kompassen kunnen ook inspiratie bieden voor welke soort acties ondernomen kunnen worden onderweg naar 2040. Tot slot beschreven we elke wereld vanuit de gelaagdheid die er eigen aan is: aan de hand van kenmerkende feiten, systemen, wereldbeelden en metaforen. 

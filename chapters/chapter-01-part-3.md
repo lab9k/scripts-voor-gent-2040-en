@@ -6,6 +6,7 @@ chapter: 1
 ispart: true
 permalink: /giganten-lift/hendrik/
 title: Hendrik (87 jaar)
+indentlevel: 3
 ---
 ## Verslag-van-de-dag aan zijn nieuwe oral-pen pal
 

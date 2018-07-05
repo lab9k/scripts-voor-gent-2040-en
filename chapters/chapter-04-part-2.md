@@ -6,6 +6,7 @@ chapter: 4
 ispart: true
 permalink: /eclectische-stroom/gust/
 title: Gust (27)
+indentlevel: 3
 ---
 
 ## Interview voor het studentenblad van de opleiding psychologie

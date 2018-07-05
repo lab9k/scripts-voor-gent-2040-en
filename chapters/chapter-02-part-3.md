@@ -6,6 +6,7 @@ chapter: 2
 ispart: true
 permalink: /klimaat-cascade/tiuri/
 title: Tïuri (57 jaar) 
+indentlevel: 3
 ---
 
 ## Uit zijn ongepubliceerde autobiografie
