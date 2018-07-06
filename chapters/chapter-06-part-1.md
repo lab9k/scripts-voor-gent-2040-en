@@ -1,6 +1,5 @@
 ---
 layout: chapter
-author: 
 part: 1
 chapter: 6
 permalink: /geslaagde-werkelijkheden/
