@@ -9,7 +9,7 @@ chaptermarker: true
 indentlevel: 2
 ---
 
-![Eclectische Stroom banner]({{ site.baseurl }}/images/Ruimte_1.jpg)
+<a href="{{ site.baseurl }}/images/Ruimte_1.jpg" data-lightbox="Eclectische Stroom"><img src="{{ site.baseurl }}/images/Ruimte_1.jpg"></a>
 
 Door de afbrokkeling van de grote mogendheden na de jaren ‘10, vonden Europese regio’s een nieuw elan, gebaseerd op ver doorgedreven technologische ontwikkelingen. De internationale corporaties van weleer blijven schaalvoordeel kennen, maar ze werken nu net als de internationale sectorfederaties op basis van volledige transparantie – en in de EU ook volledig zonder winstbejag. Er wordt volop ingezet op voortdurende sociale en maatschappelijke innovatie, naast technologische innovatie. Hoewel klimaatverandering zijn gevolgen laat voelen, is de stad zelf volledig klimaatneutraal. Gent was er vroeg bij en loopt daardoor nog steeds voor op de meeste andere Vlaamse steden, in het bijzonder op het vlak van energievoorziening.
 {:.chapter-intro}

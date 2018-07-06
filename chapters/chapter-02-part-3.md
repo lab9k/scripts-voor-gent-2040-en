@@ -11,7 +11,7 @@ indentlevel: 3
 
 ## Uit zijn ongepubliceerde autobiografie
 
-![Tiuri]({{ site.baseurl }}/images/Tiuri.jpg)
+<a href="{{ site.baseurl }}/images/Tiuri.jpg" data-lightbox="Tiuri"><img src="{{ site.baseurl }}/images/Tiuri.jpg"></a>
 
 Sheila valt onverwachts binnen. ‘Damn it’, roept ze nog voor ze goeiedag zegt, ‘mijn laptop is weer gecrasht, Tïuri!’. ‘Natuurlijk’, zeg ik, ‘die is ondertussen al bijna twintig jaar oud, ik weet niet hoelang ik de levensduur nog zal kunnen blijven rekken. Waarom ga je niet eens voor iets anders? Kijk, ik heb hier deze week nog maar gewerkt aan een…’. ‘Ik gebruik graag laptops’, onderbreekt ze me, ‘ze geven mij nog steeds het meeste werkvrijheid, ik ben ze nu eenmaal gewend’.
 

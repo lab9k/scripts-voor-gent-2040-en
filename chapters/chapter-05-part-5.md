@@ -9,7 +9,7 @@ title: Stedelijke Ruimte
 indentlevel: 2
 ---
 
-![Stedelijke ruimte graphic]({{ site.baseurl }}/images/Ruimte.jpg)
+<a href="{{ site.baseurl }}/images/Ruimte.jpg" data-lightbox="Ruimte"><img src="{{ site.baseurl }}/images/Ruimte.jpg"></a>
 
 **GIGANTEN LIFT** De stedelijke ruimte is voor het overgrote deel geprivatiseerd. De signalisatie, de wegen en paden, de gedeelde elektrische voertuigen en de bijhorende datastromen worden uitgebaat door de sterke internationale bedrijven die de onderliggende technologie ontwikkelden. Deze datastromen, gecombineerd met die van persoonlijke gezondheidsmonitoring en kalenders, sturen bots en drones aan die voor dienstverlening instaan. De veiligheid, in handen van geprivatiseerde politiediensten en security agentschappen, wordt door Artificiële Intelligentie verzekerd. Oningevulde plekken zijn er haast niet in de stad. Parkjes werden indoor recreatieruimtes en de winkelstraten zijn gereduceerd tot gevels en etalages waarachter enkel opslag zit. De winkels zelf werden vervangen door overdekte ruimtes voor try-and-buy retail aan de rand van de stad.
 

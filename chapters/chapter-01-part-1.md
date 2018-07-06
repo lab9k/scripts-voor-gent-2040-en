@@ -9,7 +9,7 @@ chaptermarker: true
 indentlevel: 2
 ---
 
-![Giganten lift banner]({{ site.baseurl }}/images/Ruimte_2.jpg)
+<a href="{{ site.baseurl }}/images/Ruimte_2.jpg" data-lightbox="Gigantenlift"><img src="{{ site.baseurl }}/images/Ruimte_2.jpg"></a>
 
 Het Europese economisch groeibeleid heeft de technologie-giganten jarenlang gevoed. De uitbreiding van hun activiteiten en fusies met corporaties uit andere sectoren, heeft hun dominantie
 doen toenemen. Ze vormen samen met enkele dozijnen multinationals uit het bankwezen, de

@@ -12,6 +12,7 @@ indentlevel: 3
 ## Dagboekfragment van een vrijwilligster
 
 ![Sofia]({{ site.baseurl }}/images/Sofia.jpg)
+<a href="{{ site.baseurl }}/images/Sofia.jpg" data-lightbox="Sofia"><img src="{{ site.baseurl }}/images/Sofia.jpg"></a>
 
 5 februari 2040
 Credits: 9,2

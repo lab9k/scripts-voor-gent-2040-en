@@ -1,6 +1,7 @@
 ---
 ---
 {% include css/bootstrap.min.css %}
+{% include css/lightbox.css %}
 {% include css/main.css %}
 
 

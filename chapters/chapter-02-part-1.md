@@ -9,7 +9,7 @@ chaptermarker: true
 indentlevel: 2
 ---
 
-![Klimaat Cascade banner]({{ site.baseurl }}/images/Ruimte_4.jpg)
+<a href="{{ site.baseurl }}/images/Ruimte_4.jpg" data-lightbox="Klimaat Cascade"><img src="{{ site.baseurl }}/images/Ruimte_4.jpg"></a>
 
 Snelle en doorgedreven klimaatverandering heeft een nadelig domino-effect gehad op de wereldeconomie. Europese steden zoals Gent kunnen de hierdoor snel groeiende laag armen niet opvangen. Desondanks stelt de Gentse bevolking het in vergelijking met die van andere Europese steden nog relatief goed. Daarom vormt ze een goed bediende afzetmarkt voor de overblijvende internationale economische actoren. Coöperatieven van micro-ondernemers in allerlei sectoren steunen op oude technologische platformen voor hun werk. Oude en nieuwe technologieën worden door elkaar gebruikt. Systemen die het mogelijk maken deze effectief te combineren, zijn cruciaal voor het in stand houden van de overblijvende economische activiteit. De overheid staat in voor de verbindende infrastructuur en geeft verder de bottom-up initiatieven vrij spel om kleinschalige oplossingen voor grootschalige problemen te helpen waarmaken.
 {:.chapter-intro}

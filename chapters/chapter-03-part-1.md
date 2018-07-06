@@ -9,7 +9,7 @@ chaptermarker: true
 indentlevel: 2
 ---
 
-![Lokale Wacht banner]({{ site.baseurl }}/images/Ruimte_3.jpg)
+<a href="{{ site.baseurl }}/images/Ruimte_3.jpg" data-lightbox="Lokale Wacht"><img src="{{ site.baseurl }}/images/Ruimte_3.jpg"></a>
 
 Gentenaars zetten zich maximaal in voor het eigen lokaal welzijn en ondersteunen elkaar met gemeenschapsinitiatieven terwijl de levensstandaard onder druk staat. Het transparante digitale monitoring- en het credit-systeem dat door de overheid en lokale gemeenschappen gebruikt wordt, stimuleert een gestandaardiseerde levensloop waarin binnen de lijntjes gekleurd wordt. Die context leidt tot een grote solidariteit in de publieke ruimtes, maar verborgen achter de schone schijn komt die solidariteit soms onder druk te staan door gevoelens van jaloezie of stiekeme op persoonlijk gewin gerichte activiteiten. 
 

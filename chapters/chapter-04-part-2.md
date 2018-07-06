@@ -11,7 +11,7 @@ indentlevel: 3
 
 ## Interview voor het studentenblad van de opleiding psychologie
 
-![Gust]({{ site.baseurl }}/images/Gust.jpg)
+<a href="{{ site.baseurl }}/images/Gust.jpg" data-lightbox="Gust"><img src="{{ site.baseurl }}/images/Gust.jpg"></a>
 
 **Gust, jij bent zelf nog niet zo heel lang geleden afgestudeerd binnen onze opleiding en toch lijk je al goed je weg te hebben gevonden in je jonge loopbaan. Kan je even kort vertellen wat je doet?**
 

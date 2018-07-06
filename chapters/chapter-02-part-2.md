@@ -11,7 +11,7 @@ indentlevel: 3
 
 ## Brief aan zijn moeder in Kenia
 
-![Bem]({{ site.baseurl }}/images/Bem.jpg)
+<a href="{{ site.baseurl }}/images/Bem.jpg" data-lightbox="Bem"><img src="{{ site.baseurl }}/images/Bem.jpg"></a>
 
 Lieve mama, 
 

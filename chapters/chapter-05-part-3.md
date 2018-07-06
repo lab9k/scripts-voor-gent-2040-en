@@ -9,7 +9,7 @@ title: Verbondenheid
 indentlevel: 2
 ---
 
-![Verbondenheid graphic]({{ site.baseurl }}/images/Verbondenheid.jpg)
+<a href="{{ site.baseurl }}/Verbondenheid.jpg" data-lightbox="Verbondenheid"><img src="{{ site.baseurl }}/images/Verbondenheid.jpg"></a>
 
 **GIGANTEN LIFT** Verbondenheid is een nagenoeg volledig digitale aangelegenheid, gestuurd door de software en netwerken van de technologie giganten. Mensen vinden elkaar, een job, een logement, een concert via dezelfde technologie die over hun gezondheid waakt, hen door het verkeer loodst of onderwijst. Ze voelen zich verbonden met verschillende online groepen over de hele wereld, en combineren meerdere rollen en identiteiten die allemaal gelinkt zijn aan één GP (global passport). Dit geeft aanleiding tot een sterk gevoel van ‘toebehoren’. Je persoonlijk profiel biedt makkelijk toegang tot allerlei verschillende online interesse-groepen. De globale eenvormigheid van culturele producten is makkelijk herkenbaar en een lokale toets zorgt ervoor dat men zich makkelijk herkent in de personages en omgevingen uit de reclameboodschappen van de giganten. Voor anderen wordt het teveel: zij vinden geen richting in de overvloed van oppervlakkigheden (Wat vroeger keuzestress genoemd werd, maar nu simpelweg gekend is als navigatiemoeheid). Anderen verzanden in eenzaamheid. 
 

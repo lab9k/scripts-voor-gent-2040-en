@@ -10,7 +10,7 @@ indentlevel: 3
 ---
 ## Fragment uit tussentijds evaluatiegesprek met haar celhoofd bij Prospects
 
-![Mia]({{ site.baseurl }}/images/Mia.jpg)
+<a href="{{ site.baseurl }}/images/Mia.jpg" data-lightbox="Mia"><img src="{{ site.baseurl }}/images/Mia.jpg"></a>
 
 Sinds mijn overstap van de Stad Gent naar deze job in de privé, haal ik zoveel meer voldoening uit mijn professioneel leven. Daar waar ik vroeger als deskundige ruimtelijke ordening afknapte op de logge structuren waarbinnen we werkten, voel ik mij nu veel meer in mijn sas. Mijn functie hier  als  omgevingsconsultant  laat  me  toe  om,  weliswaar  binnen  de  vooropgestelde  krijtlijnen  van  onze  moederonderneming Alphanumerics, veel flexibeler te ageren en simpelweg meer gedaan te krijgen op kortere tijd. 
 

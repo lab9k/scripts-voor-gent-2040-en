@@ -9,7 +9,7 @@ title: Welzijn
 indentlevel: 2
 ---
 
-![Welzijn graphic]({{ site.baseurl }}/images/Welzijn.jpg)
+<a href="{{ site.baseurl }}/images/Welzijn.jpg" data-lightbox="Welzijn"><img src="{{ site.baseurl }}/images/Welzijn.jpg"></a>
 
 **GIGANTEN LIFT** Het fysieke en materiële welzijn van de bevolking is relatief hoog. De productiviteit is groot, de aanhoudende stroom van goederen en diensten wordt beheerd door cybersystemen en gretig afgenomen door leden van de gelaagde middenklasse. De snel draaiende economie zorgt voor een hoge tewerkstellingsgraad. Mensen worden steeds ouder door vooruitgang in de bio-medische wetenschap en, niet minder belangrijk, de medische opvolging die door gepersonaliseerde virtuele assistenten geboden wordt. Mentaal welzijn is niet voor iedereen zo vanzelfsprekend, vooral armere ouderen handhaven zich moeilijk in deze commerciële wereld. 
 
