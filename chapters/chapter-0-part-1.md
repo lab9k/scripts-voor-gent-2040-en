@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Welkom in Gent 2040
+title: Wie
 part: 1
 chapter: 0
 ispart: false

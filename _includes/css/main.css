@@ -48,14 +48,25 @@ div.menu-bar{
   padding:10px 0px;
 }
 div.menu-btn{
-  padding-left: 20px;
+  padding-left: 15px;
   text-transform:uppercase;
   font-family: 'Assistant';
   font-weight:bold;
   cursor:pointer;
 }
-.navbar-nav .menu-btn{
-  width: 235px;
+.navbar-nav /*.menu-btn*/{
+  display:block;
+  float: right;
+}
+.navbar-nav a {
+  text-transform: uppercase;
+  font-weight: 500;
+  margin: auto;
+}
+.navbar-nav div {
+  display: flex;
+  flex-direction: row;
+  flex-direction: column-reverse;
 }
 div.menu-bar .menu-btn.menu-icon,
 div.nav .menu-btn.menu-icon{
@@ -93,14 +104,11 @@ nav.navbar.withsidebar {
   right:280px;
   transition:all 0.5s ease-in-out;
 }
-.navbar-ext-nav {
-  float: right;
-}
-.navbar-ext-nav li {
-  list-style-type: none;
-  text-transform: uppercase;
-  font-weight: 500;
-  float: right;
+@media screen and (max-width: 768px) {
+  .ext-link {
+    display: none;
+    background-color: blue;
+  }
 }
 
 div.header{
