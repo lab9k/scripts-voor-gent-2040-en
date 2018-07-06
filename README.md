@@ -63,7 +63,7 @@ Een pagina's bijmaken gebeurt zo:
 4. Let wel: De volgorde van de bestanden in "chapters" is de volgorde waarin ze worden meegegeven in de navigatie
 
 ### Download knop
-Op de voorpagina van de site kan men de PDF downloaden. Om een nieuwe versie van de PDF te beschikking te stellen drop je deze nieuwe versie in de "download" map en commit je deze naar Github. Zorg er wel voor dat de benaming identiek is aan de vorige versie.
+Op de voorpagina van de site kan men de PDF downloaden. Om een nieuwe versie van de PDF ter beschikking te stellen drop je deze nieuwe versie in de "download" map en commit je deze naar Github. Zorg er wel voor dat de benaming identiek is aan de vorige versie.
 
 
 ## Github pages
