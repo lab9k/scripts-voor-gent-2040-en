@@ -186,17 +186,6 @@ div.title img {
 div.byline{
   text-align:center;
 }
-div.city-graph{
-  position:absolute;
-  bottom:-28px;
-  text-align:center;
-  width:100%;
-}
-
-div.city-graph img {
-  max-width: 980px;
-  width:100%;
-}
 
 /* div.contributors,
 div.critics,
@@ -323,6 +312,9 @@ div.introduction{
   text-align:left;
   float:left;
   margin-left:20px;
+}
+.chapter-nav .hide {
+  display: none;
 }
 
 .chapter-nav ul{

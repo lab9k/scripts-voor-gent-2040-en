@@ -4,12 +4,14 @@ $(".menu-btn").click(function(){
   if($(".chapter-nav").is(".show")){
     $(".chapter-nav").removeClass("show");
     $(".page").removeClass("withsidebar");
-    $(".navbar").removeClass("withsidebar")
+    $(".navbar").removeClass("withsidebar");
+    window.setTimeout(() => {$(".chapter-nav").addClass("hide")}, 800);
 
   } else{
-    $(".page").addClass("withsidebar")
+    $(".chapter-nav").removeClass("hide");
+    $(".page").addClass("withsidebar");
     $(".chapter-nav").addClass("show");
-    $(".navbar").addClass("withsidebar")
+    $(".navbar").addClass("withsidebar");
   }
 
 });
