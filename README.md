@@ -7,6 +7,7 @@
 
 ## Known bugs:
 
+* Position of menu icon on mobile
 
 ## To deploy:
 
