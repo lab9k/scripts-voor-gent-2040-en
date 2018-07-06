@@ -9,8 +9,8 @@ $(".menu-btn").click(function(){
 
   } else{
     $(".chapter-nav").removeClass("hide");
-    $(".page").addClass("withsidebar");
     $(".chapter-nav").addClass("show");
+    $(".page").addClass("withsidebar");
     $(".navbar").addClass("withsidebar");
   }
 
@@ -59,8 +59,3 @@ $(window).scroll(function () {
     }
   }
 });
-
-$('.return-top').click(function() {
-  $(document).scrollTo('.page', 500, {easing:"swing"})
-})
-

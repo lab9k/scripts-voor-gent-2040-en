@@ -314,7 +314,7 @@ div.introduction{
   margin-left:20px;
 }
 .chapter-nav .hide {
-  display: none;
+  display: none !important;
 }
 
 .chapter-nav ul{
@@ -333,10 +333,6 @@ div.introduction{
 }
 .chapter-nav ul li:hover {
   color: #fff;
-}
-.chapter-nav li .nav-chapter-author{
-  font-size: 13px;
-  font-family: 'Assistant';
 }
 
 .chapter-nav li .nav-part{
@@ -420,8 +416,8 @@ div.introduction{
   font-family: 'Assistant';
   text-transform: uppercase;
   overflow: hidden;
-  letter-spacing: -0.06em;
-  font-size: 11px;
+  letter-spacing:
+  font-size: 13px;
   float: left;
 }
 
