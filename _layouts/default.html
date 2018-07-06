@@ -7,11 +7,13 @@
         <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" >
         <link rel="stylesheet" href= {{ "/fonts/fonts.css" | prepend:site.baseurl }} >
-        <link rel="stylesheet" href= {{ "/fonts/lightbox.css" | prepend:site.baseurl }} >
+        <link rel="stylesheet" href= {{ "/css/lightbox.css" | prepend:site.baseurl }} >
         <link rel="stylesheet" href= {{ "/css/combined.css" | prepend:site.baseurl }} >
         <link rel="stylesheet" href= {{ "/css/mobile.css" | prepend:site.baseurl }}  media="all and (max-width: 669px)">
     </head>
     <body>
+
+      {% include header.html %}
 
       {{ content }}
 

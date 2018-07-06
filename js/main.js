@@ -5,7 +5,7 @@ $(".menu-btn").click(function(){
     $(".chapter-nav").removeClass("show");
     $(".page").removeClass("withsidebar");
     $(".navbar").removeClass("withsidebar");
-    window.setTimeout(() => {$(".chapter-nav").addClass("hide")}, 800);
+    window.setTimeout(() => {$(".chapter-nav").addClass("hide")}, 510);
 
   } else{
     $(".chapter-nav").removeClass("hide");

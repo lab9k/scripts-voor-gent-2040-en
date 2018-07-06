@@ -43,5 +43,5 @@ Het kenniscentrum Applied Futures Research is een samenwerking van de opleidinge
 Wij ontwikkelen praktijkgerichte werkwijzen en instrumenten voor toekomstonderzoek en werken samen met maatschappelijke actoren om toekomstdenken in uiteenlopende contexten aan te moedigen en te versterken.  We mikken op meerwaarde uit toekomstonderzoek voor bedrijven, non-profit organisaties, overheden, onderwijs, activisme, gemeenschappen en de samenleving. We moedigen langetermijndenken aan met inzicht in methoden en benaderingen, met concrete tools, training, coaching en op maat gemaakte activiteiten. 
 
 **Vind ons online:**
-www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time
+[www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time](www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time)
 Bel of stuur een email: maya.van.leemput@ehb.be

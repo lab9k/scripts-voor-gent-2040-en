@@ -22,7 +22,7 @@ indentlevel: 1
 
 **Grafische vormgeving:**
 
-www.pietergeerts.be
+[www.pietergeerts.be](www.pietergeerts.be)
 
 **Illustraties:**
 
@@ -32,9 +32,9 @@ Eliena Lebeau
 
 Uitvoerder: Applied Futures Research - Erasmushogeschool Brussel
 
-Contact: foresight@digipolis.gent en @ForesightGent
+Contact: [foresight@digipolis.gent](foresight@digipolis.gent) en [@ForesightGent](https://twitter.com/ForesightGent?lang=en)
 
 **Verantwoordelijke uitgever:** 
 
 Johan Van der Bauwhede, directeur Digipolis Gent
-“Attribution Licence CC BY 2.0 BE” https://creativecommons.org/licenses/by/2.0/be/deed.en
+“Attribution Licence CC BY 2.0 BE” [Creative Commons](https://creativecommons.org/licenses/by/2.0/be/deed.en)

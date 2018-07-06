@@ -37,21 +37,21 @@ div.menu-btn:hover,
   color: #bd2961;
   text-decoration: none;
 }
+.content a {
+  text-decoration: underline;
+}
 
 div.clear{
   clear:both;
 }
-
 div.menu-bar{
   padding:10px 0px;
-  height:35px;
 }
 div.menu-btn{
   text-transform:uppercase;
   font-family: 'Assistant';
   font-weight:bold;
   cursor:pointer;
-  margin-top: 12px;
 }
 .navbar-nav .menu-btn{
   width: 235px;
@@ -79,6 +79,7 @@ div.byline{
 
 div.navbar-header{
   max-width:980px;
+  height: 6vh;
   margin:0px auto;
   padding-top: 12px;
   padding-bottom: 12px;
@@ -97,22 +98,18 @@ nav.navbar.withsidebar {
 .navbar-ext-nav ul {
   list-style-type: none;
 }
+.navbar-ext-nav li {
+  text-transform: uppercase;
+  font-weight: 500;
+}
 
 div.header{
-  /* background: #b8e0eb url("{{ site.baseurl }}/images/Cover_zww.jpg") no-repeat scroll center; 
-  background-blend-mode: multiply; */
   background-color: #b8e0eb;
   z-index:0;
   position:relative;
   overflow:hidden;
   padding-bottom:50px;
 }
-
-/* section.cover-image {
-  height: 45vh;
-  background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
-  background-size: 70%;
-} */
 
 @media screen and (min-width: 950px) {
   div.cover-image {
@@ -515,7 +512,8 @@ div.introduction{
 }
 
 .home-button {
-  width: 35px;
+  cursor: pointer;
+  width: 32px;
 }
 
 .footer-nav {
