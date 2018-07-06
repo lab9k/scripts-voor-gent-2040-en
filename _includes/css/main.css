@@ -57,6 +57,7 @@ div.menu-btn{
 .navbar-nav /*.menu-btn*/{
   display:block;
   float: right;
+  padding-top: 8px;
 }
 .navbar-nav a {
   text-transform: uppercase;
@@ -67,6 +68,7 @@ div.menu-btn{
   display: flex;
   flex-direction: row;
   flex-direction: column-reverse;
+  align-self: center;
 }
 div.menu-bar .menu-btn.menu-icon,
 div.nav .menu-btn.menu-icon{
@@ -107,7 +109,6 @@ nav.navbar.withsidebar {
 @media screen and (max-width: 768px) {
   .ext-link {
     display: none !important;
-    background-color: blue;
   }
 }
 
@@ -118,21 +119,18 @@ div.header{
   overflow:hidden;
   padding-bottom:50px;
 }
-
-@media screen and (min-width: 950px) {
-  div.cover-image {
-    height: 45vh;
-    background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
-    background-size: 70%;
-    background-position-y: -5px;
-  }
+div.cover-image {
+  height: 38vh;
+  background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
+  background-size: 670px;
+  background-position-y: -0.05vw;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 500px) {
   div.cover-image {
-    height: 45vw;
     background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat scroll center; 
-    background-size: 100%;
+    background-size: 30vw;
+    background-position-y: -0.01vw;
   }
 }
 
