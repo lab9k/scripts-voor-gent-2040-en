@@ -5,16 +5,14 @@
           <img class="home-button" src={{ "/images/home.svg " | prepend:site.baseurl }}></a>
         {% endif %}
       </a>
-    <!-- <div class="navbar-ext-nav">
-      <ul>
-        <li><a href="">Wat</a></li>
-        <li><a href="">Waarom</a></li>
-        <li><a href="">Wie</a></li>
-      </ul>
-    </div> -->
     <div class="nav navbar-nav navbar-right pull-right">
-      <div class="menu-btn menu-icon"></div>
-    </div>              
+      <ul class="navbar-ext-nav">
+          <li><a class="col-md-1" href={{ "/wat" | prepend:site.baseurl }}>Wat</a></li>
+          <li><a class="col-md-1" href={{ "/waarom" | prepend:site.baseurl }}>Waarom</a></li>
+          <li><a class="col-md-1" href={{ "/wie" | prepend:site.baseurl }}>Wie</a></li>
+          <li><div class="menu-btn menu-icon col-md-1"></div></li>
+        </ul>
+    </div>
   </div>
 </nav>
 

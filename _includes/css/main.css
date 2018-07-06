@@ -48,6 +48,7 @@ div.menu-bar{
   padding:10px 0px;
 }
 div.menu-btn{
+  padding-left: 20px;
   text-transform:uppercase;
   font-family: 'Assistant';
   font-weight:bold;
@@ -63,7 +64,7 @@ div.nav .menu-btn.menu-icon{
   background-position: 100% 0%;
   display: block;
   background-size: 20px;
-  height: 18px;
+  height: 19px;
   padding-right: 28px;
 }
 
@@ -95,12 +96,11 @@ nav.navbar.withsidebar {
 .navbar-ext-nav {
   float: right;
 }
-.navbar-ext-nav ul {
-  list-style-type: none;
-}
 .navbar-ext-nav li {
+  list-style-type: none;
   text-transform: uppercase;
   font-weight: 500;
+  float: right;
 }
 
 div.header{
@@ -514,6 +514,9 @@ div.introduction{
 .home-button {
   cursor: pointer;
   width: 32px;
+}
+.home-button:hover {
+  fill: red;
 }
 
 .footer-nav {
