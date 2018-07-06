@@ -409,6 +409,9 @@ div.introduction{
 .in-chapter-nav ul li:hover{
   color: #db2961;
 }
+.breadcrumb {
+
+}
 
 .in-chapter-sidebar-content .chapter-nav-links,
 .mobile-in-chapter-links .chapter-nav-links {

@@ -32,3 +32,16 @@
     {% assign prev = p %}
   {% endfor %}
 </div>
+<ul class="breadcrumb">
+  {% assign current-chapter = page.chapter %}
+  {% for p in site.pages %}
+    {% if p.chapter == current-chapter %}
+      {% if p.url == page.url %}
+        <li><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
+      {% else %}
+        <li><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+      {% endif%}
+    {% else %}
+    {% endif %}
+  {% endfor %}
+</ul>
