@@ -7,19 +7,7 @@
     {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
 
     {% if output_next == true and p.layout == "chapter" %}  
-    <a href= {{ p.url | prepend:site.baseurl }}>
-      {% if p.ispart == true %}
-        Volgende <!--<{{p.title}}>-->
-      {% else %}
- 
-        <!-- {% if p.chapter == 99 %}
-          APPENDIX
-        {% else %}
-          {{p.title}}
-        {% endif %} -->
-             
-      {% endif %}
-      &rarr; </a>
+    <a href= {{ p.url | prepend:site.baseurl }}> Volgende &rarr; </a>
       {% assign output_next = false %}
     {% endif %}  
 

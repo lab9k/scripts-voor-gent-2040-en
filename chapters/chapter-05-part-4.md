@@ -9,7 +9,7 @@ title: Duurzaamheid
 indentlevel: 2
 ---
 
-<a href="{{ site.baseurl }}/images/Duurzaamheid.jpg" data-lightbox="Duurzaamheid"><img src="{{ site.baseurl }}/Duurzaamheid.jpg"></a>
+<a href="{{ site.baseurl }}/images/Duurzaamheid.jpg" data-lightbox="Duurzaamheid"><img src="{{ site.baseurl }}/images/Duurzaamheid.jpg"></a>
 
 **GIGANTEN LIFT** De economische groei is op duurzame leest geschoeid, daarvoor hebben de grote commerciële spelers zelf gezorgd. Zij zagen al meer dan twee decennia geleden hun winsten bedreigd door ecologische achteruitgang en grepen in met een vrijwillig klimaatakkoord. Geautomatiseerde en gerobotiseerde productie-eenheden zijn nu lokaal ingeplant. Daar wordt met cradle-to-cradle principes en circulaire systemen gewerkt. In Gent zijn er, net als in de meeste grote steden, upcycling- en doorgebruik sites ingericht door de grote bedrijven. Om in hun grote energiebehoeften te voorzien, kochten de grote bedrijven ook veelbelovende en innoverende start-ups in hernieuwbare energie op. Zo breidden ze hun activiteiten nog verder uit. 
 
