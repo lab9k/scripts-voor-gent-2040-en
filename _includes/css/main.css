@@ -106,7 +106,7 @@ nav.navbar.withsidebar {
 }
 @media screen and (max-width: 768px) {
   .ext-link {
-    display: none;
+    display: none !important;
     background-color: blue;
   }
 }
