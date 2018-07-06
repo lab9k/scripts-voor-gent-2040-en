@@ -54,11 +54,12 @@ div.menu-btn{
   font-weight:bold;
   cursor:pointer;
 }
-div.menu
+
 .navbar-nav /*.menu-btn*/{
   display:block;
   float: right;
-  padding-top: 8px;
+  padding-left: 50px;
+  margin-top: 0.8vh;
 }
 .navbar-nav a {
   text-transform: uppercase;
@@ -97,6 +98,7 @@ div.navbar-header{
   height: 6vh;
   margin:0px auto;
   padding-top: 12px;
+  padding-left: 10px;
   padding-bottom: 12px;
   float:inherit;
 }
@@ -114,7 +116,7 @@ nav.navbar.withsidebar {
 }
 @media screen and (max-width: 768px) {
   .navbar-nav {
-    margin-top: -3px;
+    margin-top: -0.5vh;
   }
 }
 div.header{
@@ -515,10 +517,7 @@ div.introduction{
 
 .home-button {
   cursor: pointer;
-  width: 32px;
-}
-.home-button:hover {
-  fill: red;
+  width: 36px;
 }
 
 .footer-nav {
