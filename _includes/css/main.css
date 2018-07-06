@@ -131,14 +131,6 @@ div.cover-image {
   background-position-y: -0.05vw;
 }
 
-@media screen and (max-width: 500px) {
-  div.cover-image {
-    background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat scroll center; 
-    background-size: 30vw;
-    background-position-y: -0.01vw;
-  }
-}
-
 div.header div.about{
   margin-top:40px;
   position:relative;
