@@ -1,7 +1,7 @@
-<div class="chapter-nav">
+<div class="chapter-nav hide">
   <div class="close">&rarr;</div>
   <div class="clear"></div>
-  <ul >
+  <ul>
     {% for p in site.pages %}
       {% if p.layout == "chapter" %}
     <a href= {{ p.url | prepend:site.baseurl }} ><li 
