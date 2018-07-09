@@ -443,9 +443,9 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
   margin-top: 0;
 }
 .in-chapter-sidebar-content{
-  width: 100%;
-  /* max-width: 300px; */
-  /* position: fixed; */
+  width: calc(33.3333% - 30px);
+  max-width: 310px;
+  position: fixed;
   min-width: 150px;
   overflow: auto;
 }
