@@ -35,6 +35,9 @@ div.menu-btn:hover,
 .content a:hover {
   text-decoration: underline;
 }
+.roww { display: flex; }
+.roww > p { width: 50%; }
+.roww > ul { width: 50%; text-align: right; }
 
 div.clear{
   clear:both;
@@ -324,7 +327,7 @@ div.introduction{
 
 .chapter-nav ul{
   margin:0px;
-  padding:10px 0px 0px 10px;
+  padding:10px 10px 0px 10px;
 }
 .chapter-nav li{
   border-bottom:solid 1px #333;
@@ -363,7 +366,7 @@ div.introduction{
   font-family: 'Assistant';
   font-size: 14px;
   text-align:left;
-  padding:20px 0px 5px;
+  padding:30px 15px 15px;
 }
 .footer a{
   color: #ccc;
@@ -458,10 +461,32 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
 .intro {
   font-weight: 400;
 }
-
-.partners img {
-  width: 70%;
+@media screen and (min-width: 320px) {
+  .partners a { height: 150px; }
 }
+@media screen and (min-width: 768px) {
+  .partners a { height: 300px; }
+}
+.partners img {
+  transition:all 0.5s ease-in-out;
+  max-width: 300px;
+}
+.partners img:hover {
+  filter: grayscale(.2);
+  transform: scale(1.1);
+}
+@media screen and (min-width: 320px) {
+  .partners img {
+    width: 70%;
+    margin: 0 15%;
+  }
+}
+@media screen and (min-width: 768px) {
+  .partners img {
+    width: 100%;
+  }
+}
+
 
 .partners .logo-container {
   display: flex;
@@ -493,6 +518,7 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
 .vision {
   direction: rtl;
   background-color: #ffeeee;
+  color: #c7a2a2;
   padding: 10px;
   padding-left: 80px;
 }
@@ -500,12 +526,18 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
 .introduction h1 {
   line-height: 1em;
   margin-bottom: 0;
+  color: #4a664d;
 }
 .introduction h2 {
   margin-top: 0;
+  color: #e1ffe4;
 }
 .introduction p {
   font-size: 1.1em !important;
+  color: #639267;
+}
+.introduction .download-pdf {
+  text-decoration: underline;
 }
 .quote {
   font-size: 1.4em;
