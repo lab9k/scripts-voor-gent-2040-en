@@ -1,16 +1,11 @@
----
----
-
 body{
   font-family: 'Assistant', sans-serif;
-  text-align: justify;
   background:#fff;
   color:#333;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 p {
-  text-align: justify;
   word-break: break-word;
   text-justify: inter-ideograph;
   font-size: 0.85em;
@@ -37,7 +32,7 @@ div.menu-btn:hover,
   color: #bd2961;
   text-decoration: none;
 }
-.content a {
+.content a:hover {
   text-decoration: underline;
 }
 
@@ -74,13 +69,13 @@ div.menu-btn{
 }
 div.menu-bar .menu-btn.menu-icon,
 div.nav .menu-btn.menu-icon{
-  background-image: url('{{ site.baseurl }}/images/menu_icon_sprite.png');
-  background-repeat: no-repeat;
-  background-position: 100% 0%;
   display: block;
   background-size: 20px;
   height: 19px;
-  padding-right: 28px;
+  margin-top: -12px;
+}
+div.nav .menu-btn.menu-icon i {
+  font-size: 2em;
 }
 
 div.menu-bar .menu-btn.menu-icon:hover,
@@ -94,16 +89,27 @@ div.byline{
 }
 
 div.navbar-header{
-  max-width:980px;
-  height: 6vh;
+  max-width: 980px;
+  height:56px;
   margin:0px auto;
-  padding-top: 12px;
-  padding-left: 10px;
-  padding-bottom: 12px;
+  padding:12px 15px;
   float:inherit;
+}
+div.navbar-header > a > i{
+  font-size: 2em;
+}
+div.navbar-header > a{
+  display: block;
+  float: left;
+  margin-top: -7px;
 }
 nav.navbar {
   transition:all 0.5s ease-in-out;
+}
+.navbar-default {
+  background-color: #ffffff;
+  border: none;
+  box-shadow: 1px 1px 1px rgba(0,0,0,.15);
 }
 nav.navbar.withsidebar {
   right:280px;
@@ -114,11 +120,6 @@ nav.navbar.withsidebar {
     display: none !important;
   }
 }
-@media screen and (max-width: 768px) {
-  .navbar-nav {
-    margin-top: -0.5vh;
-  }
-}
 div.header{
   background-color: #b8e0eb;
   z-index:0;
@@ -127,7 +128,7 @@ div.header{
   padding-bottom:50px;
 }
 div.cover-image {
-  height: 38vh;
+  height: 50vh;
   background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
   background-size: 670px;
   background-position-y: -0.05vw;
@@ -173,6 +174,7 @@ div.content{
 }
 
 div.chapter{
+  min-height: calc(100vh - 150px);
   margin-top:150px;
   color:#333;
 }
@@ -267,7 +269,7 @@ div.introduction{
   text-transform:uppercase;
 }
 .chapter .chapter-title{
-  margin:5px 0px 5px;
+  margin:5px 0px 50px;
   font-size:46px;
   line-height:51px;
 }
@@ -314,6 +316,7 @@ div.introduction{
   text-align:left;
   float:left;
   margin-left:20px;
+  margin-top: 7px;
 }
 .chapter-nav .hide {
   display: none !important;
@@ -404,9 +407,15 @@ div.introduction{
 .in-chapter-nav ul li:hover{
   color: #db2961;
 }
-.breadcrumb {
-
+ul.breadcrumb {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 30px;
 }
+ul.breadcrumb > li {
+  line-height: 2em;
+}
+ul.breadcrumb > li::before { content: ''; padding: 0; }
 
 .in-chapter-sidebar-content .chapter-nav-links,
 .mobile-in-chapter-links .chapter-nav-links {
@@ -418,7 +427,6 @@ div.introduction{
   font-family: 'Assistant';
   text-transform: uppercase;
   overflow: hidden;
-  letter-spacing:
   font-size: 13px;
   float: left;
 }
@@ -429,13 +437,14 @@ div.introduction{
 }
 
 .in-chapter-sidebar{
-  position:relative;
+  margin-top: 0;
 }
 .in-chapter-sidebar-content{
-  width:100%;
-  min-width:150px;
-  overflow:auto;
-
+  width: 100%;
+  /* max-width: 300px; */
+  /* position: fixed; */
+  min-width: 150px;
+  overflow: auto;
 }
 .mobile-in-chapter-links{
   display:none;
@@ -475,6 +484,10 @@ div.introduction{
   direction: rtl;
   color: #e72e7a;
   padding-left: 80px;
+  font-size: 18px;
+  padding: 15px;
+  margin-left: 20%;
+  display: block;
 }
 
 .vision {
@@ -498,10 +511,12 @@ div.introduction{
   font-size: 1.4em;
   font-weight: 200;
   line-height: 1em;
+  padding: 15px 0;
 }
 
 .quote span {
   font-size: 1.5em;
+  font-weight: 900;
 }
 
 .chapter-intro {

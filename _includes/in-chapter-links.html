@@ -7,24 +7,28 @@
     {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
 
     {% if output_next == true and p.layout == "chapter" %}  
-    <a href= {{ p.url | prepend:site.baseurl }}> Volgende &rarr; </a>
+    <a href= {{ p.url | prepend:site.baseurl }}>
+      Volgende
+      <i class="icon ion-md-arrow-dropright"></i>
+    </a>
       {% assign output_next = false %}
     {% endif %}  
 
     {% if p.layout == "chapter" and counter ==  current  %}
         
       {% if prev != null %}
-        <a href= {{ prev.url | prepend:site.baseurl }}> &larr;
-        {% if prev.ispart == true %}
-          Vorige <!-- {{prev.title}} -->
-        {% else %}
-          {% if prev.part == 0 %}
-            Inleiding
+        <a href= {{ prev.url | prepend:site.baseurl }}>
+          <i class="icon ion-md-arrow-dropleft"></i>
+          {% if prev.ispart == true %}
+            Vorige <!-- {{prev.title}} -->
           {% else %}
-            Vorige<!-- {{prev.title}} -->
-          {% endif %}
+            {% if prev.part == 0 %}
+              Inleiding
+            {% else %}
+              Vorige<!-- {{prev.title}} -->
+            {% endif %}
 
-        {% endif %}
+          {% endif %}
         </a>
       {% endif %}
       {% assign output_next = true %}

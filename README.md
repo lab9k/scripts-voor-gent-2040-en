@@ -16,15 +16,33 @@
 * Make sure you have Ruby installed
 * Install the Bundler gem:
 
+Windows
 ``` shell
 gem install bundler
 ```
 
+Mac
+``` shell
+sudo gem install bundler
+```
+
 * Install the Jekyll gem:
 
+Windows
 ``` shell
 gem install bundler jekyll
 ```
+
+Mac
+``` shell
+sudo gem install bundler jekyll
+```
+
+* To install bundle:
+``` shell
+bundle install
+```
+
 
 * To serve the project locally:
 

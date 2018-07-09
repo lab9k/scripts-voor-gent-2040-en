@@ -3,14 +3,19 @@
   <div class="navbar-header row">
     <a href={{ "/" | prepend:site.baseurl }}>
       {% if page.title != "Vier scripts voor Gent 2040" %}
-        <img class="home-button" src={{ "/images/home.svg " | prepend:site.baseurl }}></a>
+        <!-- <img class="home-button" src={{ "/images/home.svg " | prepend:site.baseurl }}></a> -->
+        <i class="icon ion-md-home"></i>
       {% endif %}
     </a>
     <div class="nav navbar-nav pull-right">
       <div class="ext-link col-sm-3"><a href={{ "/wat" | prepend:site.baseurl }}>Wat</a></div>
       <div class="ext-link col-sm-4"><a href={{ "/waarom" | prepend:site.baseurl }}>Waarom</a></div>
       <div class="ext-link col-sm-3"><a href={{ "/wie" | prepend:site.baseurl }}>Wie</a></div>
-      <div class="col-sm-2"><div class="menu-btn menu-icon"></div></div>
+      <div class="col-sm-2">
+        <div class="menu-btn menu-icon">
+          <i class="icon ion-md-menu"></i>
+        </div>
+      </div>
     </div>
   </div>
 </nav>
