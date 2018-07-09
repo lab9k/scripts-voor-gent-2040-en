@@ -3,11 +3,11 @@
 ## To do: 
 
 * Add color to chapter titles
-* Add favicon
+* ~~Add favicon~~
 
 ## Known bugs:
 
-* Position of menu icon on mobile
+* ~~Position of menu icon on mobile~~
 
 ## To deploy:
 
