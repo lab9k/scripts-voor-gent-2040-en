@@ -16,25 +16,21 @@
 * Make sure you have Ruby installed
 * Install the Bundler gem:
 
-Windows
 ``` shell
+## Windows
 gem install bundler
-```
 
-Mac
-``` shell
+## Mac OSX
 sudo gem install bundler
 ```
 
 * Install the Jekyll gem:
 
-Windows
 ``` shell
+## Windows
 gem install bundler jekyll
-```
 
-Mac
-``` shell
+## Mac OSX
 sudo gem install bundler jekyll
 ```
 
