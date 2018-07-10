@@ -22,7 +22,7 @@ indentlevel: 1
 
 **Grafische vormgeving:**
 
-[www.pietergeerts.be](www.pietergeerts.be)
+[www.pietergeerts.be](http://www.pietergeerts.be)
 
 **Illustraties:**
 

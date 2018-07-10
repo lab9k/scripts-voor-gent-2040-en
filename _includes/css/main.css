@@ -53,6 +53,19 @@ div.menu-btn{
   cursor:pointer;
 }
 
+.overlay {
+  position: fixed;
+  z-index: -1;
+  display: none;
+}
+.overlay.open{
+  display: block;
+  z-index: 1040;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0,0,0,.35);
+}
+
 .navbar-nav /*.menu-btn*/{
   display:block;
   float: right;
@@ -510,6 +523,7 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
   color: #e72e7a;
   padding-left: 80px;
   font-size: 18px;
+  font-weight: bold;
   padding: 15px;
   margin-left: 20%;
   display: block;
@@ -518,8 +532,8 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
 .vision {
   direction: rtl;
   background-color: #ffeeee;
-  color: #c7a2a2;
-  padding: 10px;
+  color: #e72e7a;
+  padding: 10px 15px;
   padding-left: 80px;
 }
 
