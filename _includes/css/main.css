@@ -144,10 +144,28 @@ div.header{
   padding-bottom:50px;
 }
 div.cover-image {
-  height: 50vh;
   background: white url("{{ site.baseurl }}/images/Cover.jpg") no-repeat fixed center; 
-  background-size: 670px;
-  background-position-y: -0.05vw;
+  background-size: 980px;
+}
+@media screen and (min-width: 320px) {
+  div.cover-image {
+    background-size: 815px;
+    background-position-y: -16vw;
+    height: 80vh;
+  }
+}
+@media screen and (min-width: 374px) {
+  div.cover-image {
+    background-size: 880px;
+    height: 67vh;
+  }
+}
+@media screen and (min-width: 768px) {
+  div.cover-image {
+    background-size: 980px;
+    background-position-y: -0.05vw;
+    height: 80vh;
+  }
 }
 
 div.header div.about{

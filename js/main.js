@@ -23,7 +23,7 @@ $(".menu-btn").click(() => {
 
 });
 
-$(".close").click(() => {
+$(".close, .overlay").click(() => {
   $(".chapter-nav").removeClass("show");
   $(".page").removeClass("withsidebar");
   $(".navbar").removeClass("withsidebar");
@@ -35,16 +35,7 @@ $(".close").click(() => {
   window.setTimeout(() => {
     $(".chapter-nav").addClass("hide");
   }, 510);
-})
-$(".overlay").click(() => {
-  $(".chapter-nav").removeClass("show");
-  $(".page").removeClass("withsidebar");
-  $(".navbar").removeClass("withsidebar");
-  $(".overlay").removeClass("open").fadeIn(500);
-  window.setTimeout(() => {
-    $(".chapter-nav").addClass("hide");
-  }, 510);
-})
+});
 
 $(() => {
 
