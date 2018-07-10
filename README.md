@@ -3,6 +3,8 @@
 ## To do: 
 
 * Add color to chapter titles
+* If you click on next (volgende) while you are at page 'Vier scripts voor Gent' => do not jump from intentlevel 2 to intentlevel 3 but to 2
+* E.g if you are at page 'Giganten Lift', only show its sub niveaus and hide the other
 * ~~Add favicon~~
 
 ## Known bugs:

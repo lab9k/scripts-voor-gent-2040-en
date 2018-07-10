@@ -7,7 +7,7 @@
 
     {% if output_next == true and p.layout == "chapter" %}
       <a href= {{ p.url | prepend:site.baseurl }}>
-        Volgende {{ p.indentlevel }}
+        Volgende {{ page.indentlevel }}
         <i class="icon ion-md-arrow-dropright"></i>
       </a>
       {% assign output_next = false %}
@@ -37,28 +37,36 @@
 </div>
 <ul class="breadcrumb">
   {% assign current-chapter = page.chapter %}
+  {% if current-chapter == 1 or current-chapter == 2  or current-chapter == 3  or current-chapter == 4 %}
+    <li>Vier scripts voor Gent</li>
+  {% endif %}
   {% for p in site.pages %}
-    {% if p.chapter == current-chapter %}
-      {% if p.url == page.url %}
-        <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
-      {% else %}
-        <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+    {% if page.chapter == 0 or page.chapter == 6 or page.chapter == 7 or page.chapter == 8 or page.chapter == 9 %}
+      {% if p.indentlevel == 1 %}
+        {% if p.url == page.url %}
+          <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
+        {% else %}
+          <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+        {% endif %}
+      {% endif %}
+    {% else %}
+      {% if current-chapter == 1 or current-chapter == 2  or current-chapter == 3  or current-chapter == 4 %}
+        {% if p.chapter == 1 or p.chapter == 2 or p.chapter == 3 or p.chapter == 4 %}
+          {% if p.url == page.url %}
+            <li {% if p.indentlevel == 3 %} style="padding-left:30px" {% else if p.indentlevel == 2 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
+          {% else %}
+            <li {% if p.indentlevel == 3 %} style="padding-left:30px" {% else if p.indentlevel == 2 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+          {% endif %}
+        {% endif %}
+      {% else if current-chapter == 5 %}
+        {% if p.chapter == 5 %}
+          {% if p.url == page.url %}
+            <li {% if p.indentlevel == 2 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
+          {% else %}
+            <li {% if p.indentlevel == 2 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+          {% endif %}
+        {% endif %}
       {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
-
-<!--
-{% if
-  p.chapter == 1 or
-  p.chapter == 5 or
-  p.chapter == 6 or
-  p.chapter == 7 or
-  p.chapter == 8 or
-  p.chapter == 9 
-%}
-  {% if p.indentlevel == 1 %}
-    <li><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
-  {% endif %}
-{% endif %}
--->
