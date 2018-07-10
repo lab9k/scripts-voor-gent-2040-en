@@ -131,6 +131,16 @@ nav.navbar.withsidebar {
   right:280px;
   transition:all 0.5s ease-in-out;
 }
+@media screen and (min-width: 320px) {
+  .chapter-nav ul > a:nth-child(-n+3) {
+    display: initial !important;
+  }
+}
+@media screen and (min-width: 768px) {
+  .chapter-nav ul > a:nth-child(-n+3) {
+    display: none !important;
+  }
+}
 @media screen and (max-width: 768px) {
   .ext-link {
     display: none !important;
@@ -167,6 +177,16 @@ div.cover-image {
     height: 80vh;
     min-height: 675px;
   }
+}
+
+.lijst-vier-versies {
+  color: #333 !important;
+}
+.lijst-vier-versies + ul > li > a {
+  text-decoration: underline;
+}
+.lijst-vier-versies + ul + p {
+  color: #333 !important;
 }
 
 div.header div.about{
@@ -538,7 +558,7 @@ ul.breadcrumb > li::before { content: ''; padding: 0; }
 }
 
 .clarification {
-  direction: rtl;
+  text-align: right;
   color: #e72e7a;
   padding-left: 80px;
   font-size: 18px;

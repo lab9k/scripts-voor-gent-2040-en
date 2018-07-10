@@ -3,14 +3,13 @@
   {% assign prev = null %}
   {% assign output_next = false %}
   {% for p in site.pages %}
-        
     {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
 
-    {% if output_next == true and p.layout == "chapter" %}  
-    <a href= {{ p.url | prepend:site.baseurl }}>
-      Volgende
-      <i class="icon ion-md-arrow-dropright"></i>
-    </a>
+    {% if output_next == true and p.layout == "chapter" %}
+      <a href= {{ p.url | prepend:site.baseurl }}>
+        Volgende {{ p.indentlevel }}
+        <i class="icon ion-md-arrow-dropright"></i>
+      </a>
       {% assign output_next = false %}
     {% endif %}  
 
@@ -41,11 +40,25 @@
   {% for p in site.pages %}
     {% if p.chapter == current-chapter %}
       {% if p.url == page.url %}
-        <li><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
+        <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}"><strong>{{p.title}}</strong></a></li>
       {% else %}
-        <li><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
-      {% endif%}
-    {% else %}
+        <li {% if p.indentlevel == 3 %} style="padding-left:15px" {% endif %}><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
+
+<!--
+{% if
+  p.chapter == 1 or
+  p.chapter == 5 or
+  p.chapter == 6 or
+  p.chapter == 7 or
+  p.chapter == 8 or
+  p.chapter == 9 
+%}
+  {% if p.indentlevel == 1 %}
+    <li><a href="{{ p.url | prepend:site.baseurl }}">{{p.title}}</a></li>
+  {% endif %}
+{% endif %}
+-->

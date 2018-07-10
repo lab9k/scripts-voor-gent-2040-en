@@ -9,4 +9,9 @@ title: Vier scripts voor Gent
 indentlevel: 1
 ---
 
-Placeholder
+<ul>
+  <li><a href="/scripts-voor-gent-2040/giganten-lift/">Giganten Lift</a></li>
+  <li><a href="/scripts-voor-gent-2040/klimaat-cascade/">Klimaat Cascade</a></li>
+  <li><a href="/scripts-voor-gent-2040/lokale-wacht/">Lokale Wacht</a></li>
+  <li><a href="/scripts-voor-gent-2040/eclectische-stroom/">Eclectische Stroom</a></li>
+</ul>

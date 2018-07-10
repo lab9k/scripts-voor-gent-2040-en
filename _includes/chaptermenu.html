@@ -6,11 +6,12 @@
   <ul>
     {% for p in site.pages %}
       {% if p.layout == "chapter" %}
-    <a href= {{ p.url | prepend:site.baseurl }} ><li 
-                                {% if page.url == p.url %}
-                                class="current-page"
-                                {% endif %}
-                                >
+        <a href= {{ p.url | prepend:site.baseurl }} >
+          <li 
+            {% if page.url == p.url %}
+            class="current-page"
+            {% endif %}
+          >
         {% if p.indentlevel == 1 or p.indentlevel == 2 %}
           <div class="nav-part nav-indent-{{p.indentlevel}}"> {{ p.title }} </div>
         {% else %}
