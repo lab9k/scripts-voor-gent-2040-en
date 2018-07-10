@@ -4,17 +4,14 @@
   {% assign output_next = false %}
   {% for p in site.pages %}
     {% capture counter %}{{p.part | append:p.chapter  }}{% endcapture %}
-
     {% if output_next == true and p.layout == "chapter" %}
       <a href= {{ p.url | prepend:site.baseurl }}>
-        Volgende {{ page.indentlevel }}
+        Volgende <!-- {{ page.indentlevel }} -->
         <i class="icon ion-md-arrow-dropright"></i>
       </a>
       {% assign output_next = false %}
-    {% endif %}  
-
+    {% endif %}
     {% if p.layout == "chapter" and counter ==  current  %}
-        
       {% if prev != null %}
         <a href= {{ prev.url | prepend:site.baseurl }}>
           <i class="icon ion-md-arrow-dropleft"></i>
@@ -35,6 +32,7 @@
     {% assign prev = p %}
   {% endfor %}
 </div>
+
 <ul class="breadcrumb">
   {% assign current-chapter = page.chapter %}
   {% if current-chapter == 1 or current-chapter == 2  or current-chapter == 3  or current-chapter == 4 %}
