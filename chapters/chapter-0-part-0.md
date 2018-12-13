@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Wat?
+title: Wat
 part: 0
 chapter: 0
 ispart: false
