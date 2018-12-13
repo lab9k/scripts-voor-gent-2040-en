@@ -3,7 +3,7 @@ layout: chapter
 part: 1
 chapter: 6
 permalink: /geslaagde-werkelijkheden/
-title: Geslaagde Werkelijkheden
+title: Gelaagde Werkelijkheden
 indentlevel: 1
 ---
 
