@@ -8,6 +8,7 @@ permalink: /vier-scripts-voor-gent/
 title: Vier scripts voor Gent
 indentlevel: 1
 ---
+Klik hier door naar de vier mogelijke toekomstscenario's voor Gent in 2040.
 
 <ul>
   <li><a href="/scripts-voor-gent-2040/giganten-lift/">Giganten Lift</a></li>
