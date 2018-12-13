@@ -12,3 +12,7 @@ Deze 'Vier scripts voor Gent 2040. Mensen en technologie in de stad van overmorg
 Het traject werd begeleid door [Open Time](https://www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time) van de Erasmus Hogeschool Brussel.
 
 Meer info en contactinformatie in de [colofon](https://lab9k.gent/scripts-voor-gent-2040/colofon/).
+
+
+![](https://i.imgur.com/KvGxJJv.png)
+![](https://i.imgur.com/6eatOpe.jpg)
