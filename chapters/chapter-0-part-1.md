@@ -13,6 +13,9 @@ Het traject werd begeleid door [Open Time](https://www.erasmushogeschool.be/nl/p
 
 Meer info en contactinformatie in de [colofon](https://lab9k.gent/scripts-voor-gent-2040/colofon/).
 
-
+ 
+ 
+  
+  
 ![](https://i.imgur.com/KvGxJJv.png)
 ![](https://i.imgur.com/6eatOpe.jpg)
