@@ -7,7 +7,7 @@ ispart: false
 permalink: /waarom/
 indentlevel: 1
 ---
-We kunnen niet voorspellen wat er zal gebeuren, welke keuzes we zullen maken, met welke kansen en uitdagingen we te maken krijgen of welke (on) verwachte gebeurtenissen onze omgeving vorm zullen geven. 
+We kunnen niet voorspellen wat er zal gebeuren, welke keuzes we zullen maken, met welke kansen en uitdagingen we te maken krijgen of welke (on)verwachte gebeurtenissen onze omgeving vorm zullen geven. 
 
 Toch kunnen we ons oriënteren met het oog op een langere termijn dan die van enkele jaren. Gent baant zich hoe dan ook een weg naar overmogen, dwars doorheen een complex en soms contradictorisch heden. 
 
