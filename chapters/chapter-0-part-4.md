@@ -5,11 +5,11 @@ part: 4
 chapter: 0
 ispart: true
 permalink: /samenvatting/
-title: Korte Samenvatting
+title: Korte samenvatting
 indentlevel: 1
 ---
 
-<span>"</span>Niemand weet wat de toekomst brengt. Toch kunnen we niet anders dan er bij stil te staan.<span>"</span>
+"Niemand weet wat de toekomst brengt. Toch kunnen we niet anders dan er bij stil te staan."
 {:.quote}
 
 **S1. GIGANTEN LIFT**
@@ -81,7 +81,7 @@ van onze toekomstbeelden voor Gent expliciet.
 
 Tenslotte doen wij een voorstel voor een vijfde toekomstbeeld met bijhorend kompas en gelaagde weergave. Dit is
 meer dan een samenvoeging van wat vooraf ging, het is
-een herinterpretatie met nieuwe combinaties van bouwstenen. [drie regels samenvatting integratie]
+een herinterpretatie met nieuwe combinaties van bouwstenen. 
 Uiteindelijk is het de bedoeling dat iedereen (ook u) een eigen
 toekomstbeeld samenstelt, en dit permanent blijft bijsturen
 terwijl u zich doorheen de wereld en de tijd beweegt. Dat toekomstbeeld zal voor iedereen anders zijn. Als u ons uw ideeën
