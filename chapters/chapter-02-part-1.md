@@ -16,10 +16,6 @@ Snelle en doorgedreven klimaatverandering heeft een nadelig domino-effect gehad 
 
 **TECHNOLOGIE:** Technologische vooruitgang is sterk vertraagd in de laatste twee decennia. Toepassingen voor het integreren van verschillende generaties technologie zorgen voor een eclectisch geheel van aan elkaar verbonden systemen. De verbindingen die het mogelijk maken dat niet op elkaar afgestemde toepassingen toch samenwerken, zijn cruciaal. Technologie biedt belangrijke hulpmiddelen voor micro-ondernemer* en micro-taskers*. 
 
-<span class="need-clarification">*Micro-ondernemers</span> zijn zeer kleinschalige ondernemingen van mensen die handel voeren of individuele diensten leveren zonder een grote ondersteunende bedrijfsstructuur. ZIj doen alles zelf waardoor een grens is aan de winst die ze kunnen maken.
-
-<span class="need-clarification">*Micro-taskers</span> zijn mensen die tegen betaling kleine punctuele taken uitvoeren. Ze zijn niet in loondienst en worden per taak betaald.
-
 *Micro-ondernemers zijn zeer kleinschalige ondernemingen van mensen die handel voeren of individuele diensten leveren zonder een grote ondersteunende bedrijfsstructuur. ZIj doen alles zelf waardoor een grens is aan de winst die ze kunnen maken.
 {:.clarification}
 
