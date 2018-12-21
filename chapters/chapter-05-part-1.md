@@ -4,32 +4,45 @@ author:
 part: 1
 chapter: 5
 permalink: /kompas/
-title: Kompas
+title: Compass
 chaptermarker: true
 indentlevel: 1
 ---
 
-"Wie had gedacht dat je in dit scenario nog zo veel zaken zou kunnen vinden die nog niet eens zo slecht zijn. Ik wil daar wel eens wonen, in die wereld."
+"Who would have thought that you would still find so many things in this scenario that aren’t that bad at all? I would like to live there, in that world."
 {:.quote}
 
-De deelnemers aan dit project gaven vier grote streefdoelen aan in hun discours over een wenselijke toekomst:
+The participants in this project pointed out four major targets in their discourse on a preferable
+future:
 
-* verbondenheid en inclusie
-* welzijn (arbeid, vrije tijd, mentale en fysieke gezondheid) 
-* leefbaarheid (stedelijke ruimte en –mobiliteit)
-* (ecologische) duurzaamheid
+* solidarity and inclusion
+* welfare (labor, leisure, mental and physical health)
+* livability (urban space and mobility)
+* (ecological) sustainability
 
-In elk van de vier scripts gelden andere prioriteiten en in elk van de scripts handelen de uiteenlopende actoren anders. Hoe zit het dan met die vier streefdoelen? 
+Different priorities apply to each of the four scripts, and the various actors act differently in
+each of the four scripts. So how about those four targets?
 
-De kompassen hieronder geven voor elk van de vier streefdoelen weer wat karakteristiek is in de vier scripts. We besteden aandacht aan de bredere context, de organisatie door overheden, bedrijven en burgers en hun attitudes, houdingen en gedragingen. We onderstrepen daarbij ook de producten en diensten die een bijdrage leveren aan het geheel. Na de vier kompassen komt voor elk script aan bod wat de rol is van technologie  en van  overheden. 
+The compasses below indicate what is typical for each of the four targets in the four scripts.
+We look at the broader context, organization by governments, companies and citizens and their
+attitudes, manners, and behaviors. In doing so, we emphasize the products and services that
+contribute to the whole. After discussing the four compasses, the roles of technology and governments
+will be discussed for each script.
 
-Dit deel biedt een overzicht van de verschillende producten en diensten die kunnen bijdragen aan het bereiken van specifieke onderdelen van de visies voor Gent in 2040 die aan bod kwamen in het traject. Het geeft een indruk van de bedoelde én onbedoelde effecten die bepaalde maatregels, houdingen of gedragingen met zich mee kunnen brengen. Vraagt u zich af wat er allemaal tussen de hedendaagse situatie en het waarmaken van een visie ligt? Dan kan u zich oriënteren aan de hand van onze kompassen.
+This part provides an overview of the different products and services that may contribute
+to achieving specific components of the visions for Ghent in 2040 that were discussed in the
+process. It gives an impression of the intended and unintended impact that certain measures,
+manners, or behaviors may entail. Do you wonder what lies between the contemporary situation
+and the realization of a vision? You can explore it using our compasses.
 
 
-**Was u even het Noorden kwijt?**
+**Did you lose sight of the North for a minute?**
 
-1. kom·pas (het; o; meervoud: kompassen)
+com·pass (noun; plural: compasses)
 
-2. instrument dat de magnetische meridiaan (het Noorden) aanwijst (…) dient ter bepaling van de richting waarin men zich ten opzichte daarvan beweegt.
+1. instrument that designates the magnetic
+meridian (the North) (...) serves
+to determine the direction in which
+one moves in relation to it.
 
-***figuurlijk***: richtsnoer, richtlijn, beginsel
+2. figurative: directive, guideline, principle
