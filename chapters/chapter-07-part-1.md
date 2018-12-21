@@ -4,14 +4,40 @@ author:
 part: 1
 chapter: 7
 permalink: /over-aan-u/
-title: Over aan U
+title:Now, it's your turn
 indentlevel: 1
 ---
-In het voorgaande ontdekte u vier versies van Gent in 2014. 
+In the preceding pages, you discovered four version of
+Ghent in 2040. They were presented through a description
+of the driving forces that design the specific worlds
+through their interplay. We also presented you with testimonies
+from two characters every time. This provided you
+with bottom-up look - through the eyes of the people who
+live and work in the presented worlds, giving meaning to
+life. We also provided you with the compasses, making
+the differences and similarities between the four version
+of Ghent 2040 visible. Moreover, the compasses may offer
+inspiration for the types of actions that can be taken on the
+road to 2040. Finally, we described each world from the
+layering that is typical of it - on the basis of characteristic
+facts, systems, worldviews, and metaphors.
 
-Zij werden gepresenteerd via een beschrijving van de drijvende krachten die, door hun samenspel, de specifieke werelden vormgeven. We presenteerden u ook getuigenissen van telkens twee personages. Zo kreeg u een inkijk van onderuit: door de ogen van de mensen die in de gepresenteerde werelden leven, werken, betekenis geven. We schotelden u ook de kompassen voor, waardoor de verschillen en gelijkenissen tussen de vier versies van Gent 2040 zichtbaar werden. De kompassen kunnen ook inspiratie bieden voor welke soort acties ondernomen kunnen worden onderweg naar 2040. Tot slot beschreven we elke wereld vanuit de gelaagdheid die er eigen aan is: aan de hand van kenmerkende feiten, systemen, wereldbeelden en metaforen. 
+Now, it’s your turn. We hope that you feel sufficiently
+inspired to get started with it. What do you think Ghent will
+be like in 2040? Perhaps, you’re considering completely
+different driving forces as starting points. Perhaps you’re
+consider other technologies, materials, or organizational
+structures that simplify or complicate the lives of people
+in Ghent in 2040. Perhaps you can come up with a range
+of different news facts for each of the scripts? Perhaps you
+want to make a new combination of the best ideas from
+the four scripts to create a new script. Perhaps you can
+come up with a whole new basic story or an original metaphor,
+based on which you create a new layered reality. Of
+perhaps you want to share your opinion on the elements
+you find desirable and undesirable.
 
-Nu is het uw beurt. Wij hopen dat u voldoende geïnspireerd bent om zelf aan de slag te gaan. Hoe zal het volgens u zijn, in Gent 2040? Misschien denkt u aan heel andere drijvende krachten als vertrekpunt. Misschien denkt u aan andere technologieën, materialen of organisatiestructuren die de levens van mensen in Gent in 2040 makkelijker of net moeilijker zouden maken. Misschien kan u voor elk van de scripts een hele reeks andere nieuwsfeiten verzinnen? Misschien wil u een nieuwe combinatie maken van de beste ideeën uit de vier scripts en zo een nieuw script maken. Misschien kan u een heel nieuw basisverhaal of een originele metafoor bedenken en van daaruit een nieuwe gelaagde werkelijkheid creëren. Of misschien wilt u uw mening kwijt over welke elementen u verkiesbaar vindt, en welke onwenselijk. 
-
-Wij zijn zeer geïnteresseerd in hoe u de toekomst van mensen en technologie in Gent ziet. Deelt u uw ideeën met ons? Bel even op, of stuur ons een mailtje. Dan gaan we samen een koffie drinken! 
-
+We are very interested in how you see the future of Ghent’s
+people and technology. Will you share your ideas with us?
+Give us a call or send us an email. We are happy to discuss
+everything over a cup of coffee!
