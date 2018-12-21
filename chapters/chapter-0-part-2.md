@@ -1,16 +1,16 @@
 ---
 layout: chapter
-title: Waarom
+title: Why
 part: 2
 chapter: 0
 ispart: false
 permalink: /waarom/
 indentlevel: 1
 ---
-We kunnen niet voorspellen wat er zal gebeuren, welke keuzes we zullen maken, met welke kansen en uitdagingen we te maken krijgen of welke (on)verwachte gebeurtenissen onze omgeving vorm zullen geven. 
 
-Toch kunnen we ons oriënteren met het oog op een langere termijn dan die van enkele jaren. Gent baant zich hoe dan ook een weg naar overmogen, dwars doorheen een complex en soms contradictorisch heden. 
 
-Deze scripts en het bijhorende kompas bieden we aan als mogelijke oriëntatie-instrumenten. We focussen daarbij op de technologie waarmee we werken, leren, leven en spelen; en die tegelijkertijd zowel een motor van verandering als het voorwerp van verandering kan zijn.
+We cannot predict what will happen, what choices we will make, what opportunities and challenges await us, or which (un)expected events will shape our environment. Nevertheless, we can reflect on what could lie beyond the horizon of the next few years.
 
-Deze toekomstbeelden zijn startpunten, die moeten aanzetten tot reflectie en debat. Uw eigen toekomstbeelden maken daarom het plaatje compleet. Wat is uw visie? Welke van de bouwstenen kan u gebruiken om daar zo dicht mogelijk bij te komen? Hoe ziet u de rol van technologie in Gent de komende twee decennia?
+Whatever happens, Ghent is making its way into the future through a complex and sometimes contradictory present. These scripts and the accompanying compass can be used as orientation tools. We focus on the technologies that we use for the purpose of working, learning, living, and playing, and that can simultaneously be drivers of change as well as what is being changed.
+
+These images of the future are starting points which should prompt reflection and debate. Therefore, your own images of the future complete the picture. What is your vision? Which of the building blocks can you use to get as close to it as possible? How do you see the role of technology in Ghent over the next two decades?
