@@ -5,28 +5,54 @@ part: 5
 chapter: 0
 ispart: true
 permalink: /verkiesbare-toekomsten/
-title: Verkiesbare toekomsten
+title: Desirable futures
 indentlevel: 1
 ---
 
-Onderdelen van een wenselijke toekomst  bundelden we in onderstaande visie:
+We combined the elements of a preferable future
+in the vision described below:
 
-In een complexe werkelijkheid waar digitalisering en automatisering steeds sneller gaan, streven we naar eenvoud, simpliciteit en duidelijke verbindingen tussen bestaande systemen. We zetten in op verbondenheid en sociaal contact, op zinvolle activiteit, kwaliteitsvolle vrije tijd en op duurzaamheid. Gent wordt een talentenregio en dé klimaatstad van Vlaanderen waar mobiliteit een basisrecht is en waarin globaal denken op co-creatieve wijze plaats vindt
+In a complex reality where digitization and automation keep gaining pace, we strive for sobriety, simplicity, and straightforward connections between existing systems. We aim for solidarity and social contact, meaningful activities, qualitative leisure, and sustainability. Ghent will become a region full of talent and the go-to climate city in Flanders where mobility is a basic right and where people think globally in a co-creative way.
 {:.vision} 
 
-Bij het uitschrijven van de scripts hielden we rekening met wat onze respondenten wenselijk achtten voor de toekomst. Visies over wat van belang is voor (mensen in) Gent vormden ook vertrekpunten voor onze initiële thematische sessies en meet-ups. Tijdens die bijeenkomsten verzamelden we originele input over wat voor onze deelnemers verkiesbaar is en wat ze willen vermijden. 
+When writing the scripts, we took into account
+what our respondents deemed preferable for the future.
+Visions of what is important for (people in) Ghent were
+also starting points for our initial thematic sessions and
+meetups. During these meetings, we collected original
+input on what is desirable to our participants and what
+they wish to avoid.
  
-De snelheid waarmee digitalisering en automatisering evolueren, de complexiteit die hiermee gepaard gaat en de impact daarvan op de waardenkaders van vandaag, wordt door een groot deel van de deelnemers als problematisch ervaren. In het vormgeven van toekomsten, vertaalt dit zich in (1) het belang van sociaal contact, (2) aangepaste tijdsinvullingen (rond principes van bedrijvigheid en vrije tijd) en (3) aangepaste ruimtelijke invulling (leegstand, groen in de stad). 
+The speed with which digitalization and automation
+evolve, the complexity involved and its impact on today’s
+value frameworks, is experienced as problematic by many
+of the participants. When shaping the futures, this translates
+to (1) the importance of social contact, (2) adapted
+time management (around principles of activity and leisure),
+and (3) adapted spatial interpretation (vacancy,
+green in the city).
 
-Een wenselijke toekomst van Gent laat zich volgens de deelnemers dan ook kenmerken door (a) verbondenheid en inclusie, (b) welzijn (arbeid, vrije tijd, mentale en fysieke gezondheid) , (c) leefbaarheid (stedelijke ruimte en –mobiliteit), aangevuld met de vereiste van (d) (ecologische) duurzaamheid
+According to the participants, a preferable future
+of Ghent is therefore characterized by (a) solidarity
+and inclusion, (b) welfare (labor, leisure, mental
+and physical health) , (c) livability (urban space
+and mobility), supplemented by the requirement
+of (d) (ecological) sustainability.
 {:.vision}
 
-Hiertoe zijn volgens de deelnemers (i) kennisdeling, voortdurende (ii) innovatie, (iii) co-creatie en (iv) ondernemerschap van cruciaal belang. 
+The participants believe that for this purpose, (i) knowledge
+sharing, constant (ii) innovation, (iii) co-creation, and
+(iv) entrepreneurship are paramount. 
 
-Overheden, bedrijven, onderzoeks- en onderwijsinstellingen en ook burgers  zijn er samen verantwoordelijk voor naar deze streefdoelen toe te werken. Ze kunnen enkel bewerkstelligd worden wanneer gefaciliteerd door een combinatie van: 
+Governments, companies, research and educational institutes
+as well as citizens are jointly responsible for working
+towards these targets.4 These can only be realized when
+facilitated by a combination of:
 
-* Aangepaste en eenvoudig toegankelijke, verbonden technologie; 
-* Aangepaste en eenvoudig toegankelijke overheden;
-* Aangepaste attitudes, houdingen en gedragingen van burgers en bedrijven.
+* Adapted and easily accessible, connected technologye; 
+* Adapted and easily accessible governments;
+* Adapted attitudes, manners, and behavior of citizens
+and companies.
 
-Onderlinge (v) communicatie tussen de verschillende actoren en (vi) inclusiviteit worden daartoe gezien als noodzakelijke voorwaarden.
+(v) Intercommunication between the different actors and
+(vi) inclusiveness are seen as necessary conditions for this.
