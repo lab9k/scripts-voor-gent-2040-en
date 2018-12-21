@@ -5,86 +5,106 @@ part: 4
 chapter: 0
 ispart: true
 permalink: /samenvatting/
-title: Korte samenvatting
+title: Executive summary
 indentlevel: 1
 ---
 
-"Niemand weet wat de toekomst brengt. Toch kunnen we niet anders dan er bij stil te staan."
+"Nobody knows what
+the future will bring.
+Yet we cannot help but
+dwell on it."
 {:.quote}
 
-**S1. GIGANTEN LIFT**
+**S1. CORPORATE LIFT**
 
-Een Europees en wereldwijd economisch groeibeleid
-heeft de dominante positie van de technologiegiganten en andere corporaties in het <span class="need-clarification">oligopolie*</span> gesterkt. De levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen vinden het heel normaal (en eigenlijk ook
-best handig) dat ze door machines getraceerd worden. De overheid heeft nog een minimaal takenpakket. Ze treedt op als een facilitator voor de grote economische actoren, ten voordele van ecologisch duurzame groei. 
+A European and global economic growth policy has further
+strengthened the dominant position of the tech giants and
+other corporations in the <span class="need-clarification">oligopoly*</span>. The standard of living
+is high. Privacy has become a concern of the past. Being
+tracked by machines is common (and, in fact, quite useful)
+to people. The government is left with minimal responsibilities.
+It acts as facilitator for the giant economic players
+in favor of ecologically sustainable growth.
 
-*Horizonscannen doe je door in de media en andere
-kanalen systematisch te zoeken naar signalen die je
-kunnen helpen te anticiperen op veranderingen in de
-omgeving, bedreigingen en kansen, die vandaag nog
-weinig zichtbaar zijn.
+*An oligopoly (from the Greek words oligos, ‘little,’
+and polein, ‘sell’) is a market that is only dominated by
+a few suppliers. In this market form, an economic product
+or a service is offered by a handful of large companies.
 {:.clarification}
 
-**S2. KLIMAAT CASCADE**
+**S2. CLIMATE CASCADE**
 
-Snelle en ingrijpende klimaatverandering heeft een verstorend domino-effect gehad op de wereldeconomie.
-Coöperatieven van micro-ondernemers in allerlei sectoren
-steunen op technologische platformen voor hun werk. De
-samenhorigheid onder Gentenaars is groot. De overheid
-staat in voor de infrastructuur voor connectiviteit en geeft
-de bottom-up initiatieven vrij spel om kleinschalige oplossingen voor grootschalige problemen waar te maken. 
+Fast and far-reaching climate change initiated a domino
+effect disrupting the global economy. Cooperatives
+of micro-entrepreneurs in a variety of sectors rely on old
+technological platforms for their work. The level of solidarity
+among Ghentians is high. The government guarantees
+the infrastructure for connectivity and allows bottom-up
+initiatives free scope to realize small-scale solutions to
+large-scale problems.
 
-**S3. LOKALE WACHT**
+**S3. LOCAL SENTRY**
 
-Gentenaars zetten zich maximaal in voor het eigen lokaal
-welzijn en ondersteunen elkaars bottom-up initiatieven
-in een situatie waar de levensstandaard onder druk staat.
-Een transparant digitaal monitoring- en credit systeem
-stimuleert een bescheiden leven volgens geijkte paden.
-Lokale overheden zijn, onder andere door middel van
-uitgebreide digitale overheidsdiensten, sterk vervlochten
-met het lokale leven.
+Ghentians fully commit to their own local welfare and
+support each other’s bottom-up initiatives in a situation
+in which the standard of living is under pressure. A transparent
+digital monitoring and credit system encourages a
+modest life along the beaten path. By providing extensive
+digital government services, among other things, local
+governments are strongly intertwined with local life.
 
-**S4. ECLECTISCHE STROOM**
+**S4. ECLECTIC CURRENT**
 
-Winst is een concept uit het verleden, tot spijt van sommigen die hun sociaal-economische voorsprong hierdoor
-moesten opgeven. Dankzij de inzet van overheden
-op verregaande technologische ondersteuning
-van alle mogelijke diensten, is Gent een succesvolle superdiverse stad geworden. Er wordt volop
-ingezet op voortdurende technologische, sociale
-én maatschappelijke innovatie. Hoewel klimaatverandering haar gevolgen laat voelen, is de stad
-zelf volledig klimaatneutraal.
+Profit is a concept of the past, to the regret of those who
+lost their socio-economic lead as a result. Thanks to governments’
+devotion to far-reaching technological support
+on all conceivable services, Ghent has become
+a successful, super-diverse city. All efforts are
+directed to permanent technological, social, and
+societal innovation. Although the consequences of
+climate change are felt, the city is completely ‘climate
+neutral.’
 
-**HET KOMPAS**
+**THE COMPASS**
 
-Geen van deze toekomsten zal wellicht ooit in de geschetste
-vorm werkelijkheid worden. Maar sommige van hun kenmerkende eigenschappen zullen zich, op kortere of langere
-termijn, wel aanbieden in Gent en de wereld. Als we goed kijken, kunnen we ze herkennen. Dit document biedt daarom
-een kompas aan. Als hulpmiddel voor een goede navigatie
-richting een wenselijke toekomst, zijn er voor de belangrijkste onderdelen van de visies voor Gent die we ontwikkelden
-met onze deelnemers, richtingaanwijzers met indicaties
-van drijvende krachten, bouwstenen en hun consequenties.
-De mogelijke toekomsten waarnaar we willen evolueren,
-liggen immers niet zomaar voor ons uitgestald.
+None of these futures will probably become reality in the
+outlined form. However, some of their characteristic traits
+will become visible in Ghent and the world, either in the
+short or in the long term. If we look closely, we can spot
+them. That is why a compass is included in this document.
+A tool for properly navigating towards a preferable future,
+it contains pointers with indications of driving forces,
+building blocks, and their consequences for the main elements
+of the visions for Ghent which we developed with
+our participants. After all, the potential futures that we
+want to evolve to are not simply displayed for us.
 
-**GELAAGDE WERKELIJKHEDEN**
+**LAYERED REALITIES**
 
-In elk van de geschetste toekomstbeelden, ontmoeten we
-twee Gentenaars die hun leven leiden in deze werkelijkheden. Om daarna nog dieper te graven, gebruiken we de techniek van Causal Layered Analysis . Dat laat ons toe om eerst
-feiten te beschrijven die aan de oppervlakte zichtbaar zijn.
-Vervolgens gaan we na in welke systemen of maatschappelijke structuren die feiten ingebed zijn. Daarna identificeren
-we de wereldbeelden die de basis voor deze systemen vormen; en de mythes en metaforen waarop die wereldbeelden
-steunen. Zo maken we de diepgewortelde uitgangspunten
-van onze toekomstbeelden voor Gent expliciet.
+In each of the outlined images of the future, we meet two
+Ghentians who live their lives in these realities. To dig even
+deeper, we use the Causal Layered Analysis technique.
+This allows us to first describe the facts that are visible
+on the surface. Subsequently, we examine the systems or
+societal structures that these facts are embedded in. Then,
+we identify the worldviews that form the foundation of
+these systems, as well as the myths and metaphors which
+support these worldviews. This way, we make the deeprooted
+bases of our images of Ghent’s future explicit.
 
-**EN UW TOEKOMSTBEELDEN?**
+**HOW ABOUT YOUR IMAGES OF THE FUTURE?**
 
-Tenslotte doen wij een voorstel voor een vijfde toekomstbeeld met bijhorend kompas en gelaagde weergave. Dit is
-meer dan een samenvoeging van wat vooraf ging, het is
-een herinterpretatie met nieuwe combinaties van bouwstenen. 
-Uiteindelijk is het de bedoeling dat iedereen (ook u) een eigen
-toekomstbeeld samenstelt, en dit permanent blijft bijsturen
-terwijl u zich doorheen de wereld en de tijd beweegt. Dat toekomstbeeld zal voor iedereen anders zijn. Als u ons uw ideeën
-bezorgt, dan nemen wij die mee in onze blijvende inspanningen om na te denken over een wenselijke toekomst voor onze
-stad. Hoe meer Gentenaars meedenken over de toekomsten
-van hun stad, hoe beter die toekomsten worden. Goede reis!
+Finally, we would like to propose a fifth image of the future
+with an accompanying compass and a layered presentation.
+This is more than a merging of the foregoing. It
+is a reinterpretation with new combinations of building
+blocks.
+
+Ultimately, it is our aim that everybody (including you)
+creates their own image of the future - one that you keep
+adjusting as you move through the world and through
+time. This image of the future will differ per person. If you
+share your ideas with us, we will include them in our ongoing
+efforts to think about a preferable future for our city.
+The more Ghentians think along about the futures of their
+city, the better these futures become. Enjoy the ride!
