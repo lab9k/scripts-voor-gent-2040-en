@@ -5,23 +5,20 @@ part: 3
 chapter: 3
 ispart: true
 permalink: /lokale-wacht/sandra/
-title: Sandra (45 jaar)
+title: Sandra (45 years old)
 indentlevel: 3
 ---
 
-## Deviante zaakvoerder landbouwbedrijf ‘Vaentjes Groene Groenten’
+## Deviant business manager of the Vaentjes Green Vegetables farm
 
 <a href="{{ site.baseurl }}/images/Sandra.jpg" data-lightbox="Sandra"><img src="{{ site.baseurl }}/images/Sandra.jpg"></a>
 
-Het is donderdag-controledag. 
-Iets concreter: De Provinciale Toezichtscommissie Werk komt langs in de dorpen van ons district. Dan moet ik mijn vrouwelijke werknemers naar huis sturen en komen hun mannen, die vaak al een job hebben in de stad, vrijwilligerswerk verrichten. 
+It is Thursday - audit day. 
 
-Op die manier hebben de controleurs niet door dat ik de regels niet volg. Ze denken dat mijn hele landbouwbedrijf draait op vrijwilligerswerk van de dorpelingen, die daar bovendien ook burgercredits voor krijgen. Goed voor hen! Maar eigenlijk draait mijn bedrijf dankzij de vrouwen van het dorp, die 40u per week bij mij werken en daar ook naar betaald worden. Officieel mogen we niet meer dan 28u per week werken, maar daar komt de Vaentjes niet mee rond. Het kan mij niet schelen dat dat ‘oneerlijke concurrentie’ zou zijn. De vrouwen werken graag de volledige week en verdienen graag hun eigen geld. 
+A bit more specifically, the Provincial Supervisory Work Committee visits the villages of our district. That means I have to send my female employees home, and their husbands come here instead, who often already have a job in the city, performing volunteer work. This way, the inspectors don’t realize that I don’t follow the rules. They think my entire farm runs on the villagers’ volunteer work, who also receive civilian credits for it. Good for them! 
 
-De maatschappij wil dat ze thuis blijven, zoals een eeuw geleden. Er wordt vergeten hoe het werk en hun inkomen hen terug eigenwaarde geeft. De dorpelingen zijn de enigen die weten wat ik doe, maar zij knijpen een oogje toe, we hebben namelijk een goede verstandhouding. 
+But actually, my company runs thanks to the women of the village, who work for me 40 hours per week and are paid for it. Officially, we can’t work more than 28 hours per week, but the Vaentjes can’t get along with that. I don’t care that this would be ‘unfair competition.’ The women like to work the entire week and earn their own money. Society wants them to stay at home, like one century ago. It is forgotten how the work and their income give them back their self-esteem. 
 
-Met de zonnepanelen en twee kleine windmolens die ik heb, genereer ik niet enkel genoeg energie voor mijn bedrijf, maar kan ik ook energie voorzien aan het hele dorp. En dan nog voor een veel lagere prijs dan de energie die van de kerncentrales komt. Het is een win-win voor iedereen. Ik kan op grotere schaal werken, de vrouwen hebben werk en inkomen, de mannen krijgen burgercredits voor werk dat ze slechts eenmaal per week doen en het hele dorp krijgt goedkope energie. 
+The villagers are the only ones who know what I do, but they close their eyes to it, as we are on good terms. With the solar panels and two small windmills that I have, I generate sufficient energy for my company, but I can also provide the entire village with energy - for a far lower price than that for the energy that comes from the nuclear power stations. It’s a win-win for everyone. I can work on a larger scale, the women have work and an income, the men receive civilian credits for work they only perform once a week, and the entire village gets inexpensive energy. 
 
-Er is natuurlijk niet enkel de fysieke controle op donderdag. Ook online worden onze werkzaamheden en de profielen van de werknemers constant bijgehouden. Maar daar heeft mijn zoon iets op gevonden. Hij studeert Nano prototpying en is een waar talent. Met gemak manipuleert hij alle relevante data die ons zou kunnen ontmaskeren. Het is illegaal, dat weet hij, maar het idee dat het familiebedrijf boven alles gaat zit er bij hem sterk ingebakken. Ik ben zo trots op hem. 
-
-Dit alles wil zeggen dat ik ook vandaag met een lach op mijn gezicht de toezichtscommissie kan ontvangen en rondleiden in het bedrijf, zonder de angst dat iets of iemand mij zal verraden.
+Of course, the physical audit on Thursdays is not all there is to it. Our activities and the employees’ profiles are also constantly monitored online. But my son found a solution to that. He’s a Nano prototyping major and truly talented. He easily manipulates all relevant data that could expose us. It is illegal, he knows, but the idea that the family business comes first is strongly ingrained in him. I am so proud of him. All this means that once again, I can receive the supervisory committee with a smile on my face and show them around the company today without fearing that something or someone will betray me.
