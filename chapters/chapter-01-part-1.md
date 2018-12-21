@@ -4,72 +4,32 @@ author:
 part: 1
 chapter: 1
 permalink: /giganten-lift/
-title: Giganten Lift
+title: Corporate Lift
 chaptermarker: true
 indentlevel: 2
 ---
 
 <a href="{{ site.baseurl }}/images/Ruimte_2.jpg" data-lightbox="Gigantenlift"><img src="{{ site.baseurl }}/images/Ruimte_2.jpg"></a>
 
-Het Europese economisch groeibeleid heeft de technologie-giganten jarenlang gevoed. De uitbreiding van hun activiteiten en fusies met corporaties uit andere sectoren, heeft hun dominantie
-doen toenemen. Ze vormen samen met enkele dozijnen multinationals uit het bankwezen, de
-voedingsindustrie, de transportsector, de chemische en farmaceutische industrieën - een sterk
-oligopolie. Gentenaars leven, net als andere Europeanen, steeds langer en hun materiële mogelijkheden nemen toe. De levensstandaard is hoog. Privacy is een zorg uit het verleden, mensen
-vinden het heel normaal (en eigenlijk ook best handig) dat ze door machines getraceerd worden.
+The European economic growth policy has nurtured the tech corporates for years. The expansion of their activities and mergers with corporations from other sectors has increased their dominance. Along with several dozens of multinationals from the banking business, the food industry, the transportation sector, the chemical and pharmaceutical industries, they form a strong oligopoly. Like other Europeans, Ghentians live increasingly longer, and their material opportunities are growing. The standard of living is high. Privacy has become a concern of the past. Being tracked by machines is common (and, in fact, quite useful) to people.
 {:.chapter-intro}
 
-**TECHNOLOGIE:** Globale, door GIGANTEN gestuurde digitale communicatietechnologie is overal aanwezig.
-Technologische innovatie maakt duurzame productie en
-duurzame mobiliteit mogelijk. Cyberbeveiliging krijgt veel
-aandacht, en is een goed draaiende economische sector.
-Daarentegen wordt privacy nauwelijks beschermd. 
+**TECHNOLOGY**: Global digital communication technology controlled by CORPORATES is everywhere. Technological innovation enables sustainable production and sustainable mobility. Cybersecurity for connected devices receives a lot of attention and is a well-functioning economic sector. Privacy, on the other hand, is hardly protected. 
 
-**BEVOLKING:** Het gros van de inwoners van Gent kan
-makkelijk aan alle materiële behoeften voldoen. In de
-Europese lidstaten worden mensen ouder met behulp
-van technologische en medische innovaties. Daardoor
-neemt de vergrijzing grote proporties aan. Ouderen die
-niet meer kunnen meedraaien, belanden echter nog vaak
-in armoede. 
+**POPULATION**: The majority of Ghent’s residents can easily meet all material needs. In the European member states, people grow older with the help of biotechnology. As a result, the ageing of the population occurs on a large scale. However, elderly people who can no longer participate often end up in poverty.
 
-**ECONOMIE:** Onderzoek, ontwikkeling en onderwijs worden gefinancierd door private belanghebbenden. De
-lokale universiteit is nauw verbonden met commerciële
-belangen. In industriële productie en de diensten-industrie primeren robotisering en automatisering, <span class="need-clarification">cybersystemen*</span> dirigeren de processen. Digitale platformen vormen
-de omgeving van nagenoeg alle economische transacties.
+**ECONOMY**: Research, development, and education are funded by private stakeholders. The local university is closely connected with commercial interests. In industrial production and the services industry, robotization and automation prevail. <span class="need-clarification">Cyber systems*</span> steer processes. Nearly all economic transactions take place in the digital environment.
 
-*Een cybersysteem is een geïntegreerde combinatie
-van faciliteiten, materialen, personeel, procedures en
-communicatie voor het leveren van diensten, gestuurd
-door algoritmes. Cybersystemen kunnen bijvoorbeeld
-zakelijke transacties, productie- en distributiecontrole
-of toegangscontrole leveren.
+*A cyber system is an integrated combination of facilities, materials, personnel, procedures, and communication for providing services, controlled by algorithms. For example, cyber systems can provide business transactions, production and distribution control, or access control.
 {:.clarification}
 
-**ECOLOGIE:** Wereldwijde corporaties sloten een onderling
-klimaatakkoord dat nu al 20 jaar standhoudt. Zo wordt de
-laagste IPPC scenario (B1 2014) waarde bereikt. Klimaatmitigatie en -responsprojecten zijn bovendien big business.
+**ECOLOGY**: Global corporations concluded a mutual climate agreement that has now been in effect for 20 years. This way, the lowest emission values are achieved.5 Moreover, climate mitigation and response projects are big business. In retail trade, acidity meters for water are regularly sold. But at a larger scale, too, capital is made out of the remediation of locations affected by floods or violent weather.
 
-**ENERGIE:** Sterke corporaties zijn de grootste producenten
-én afnemers van duurzame energie. De overheid
-heeft hier geen aandeel in. Stedelijke mobiliteit
-wordt door een Stedelijk Levend Intelligent Mobiel
-(SLIM) systeem in goede banen geleid. Daarvoor
-worden enkel nog elektrische of door mensen aangedreven voertuigen ingezet. De verbrandingsmotor is uit het straatbeeld verdwenen.
+**ENERGY**: Strong corporations are the largest producers and buyers of sustainable energy. The government has no part in this. Urban mobility is guided in the right direction by the Artificial Intelligence of SLIM (urban living intelligent mobile). Only electric or human-powered vehicles are still used for this. The internal combustion engine has disappeared from the streets.
 
-**CULTUUR:** Digitale consumptie is een wereldwijd fenomeen. Zo ontstaat ook een dominante en homogene
-globale cultuur. Mensen kunnen meerdere virtuele identiteiten hebben. Het commerciële aanbod biedt hen een
-schijnbare diversiteit binnen uniforme grenzen. De gebruikersprofielen waarover corporaties beschikken, hebben
-een onwaarschijnlijk fijne korrel en laten hyper-geïndividualiseerde diensten toe.
+**CULTURE**: Digitally controlled mass consumption is a global phenomenon. This also creates a dominant and homogeneous global culture. People can have multiple virtual identities. The commercial offer provides them with an apparent diversity within uniform limits. The user profiles that corporations have at their disposal are fine-grained to an improbable extent and allow for hyper-individualized services.
 
-**BELEID:** Europese, nationale en lokale overheden dienen
-als lokale facilitatoren (spreekbuis, contactpunt, logistieke
-coördinatie, uitvoering van territoriale reglementering,
-conciërge) voor de corporaties. Die corporaties hebben
-nagenoeg alle voorheen openbare diensten in handen. De
-weinige overgebleven publieke ruimte wordt als <span class="need-clarification">commons*</span>
-ter beschikking gesteld aan de burgers, niet ingevuld door
-een overheid die zich steeds meer terug getrokken heeft.
+**POLICY**: European, national, and local governments serve as local facilitators (mouthpiece, contact point, logistic coordination, implementation of territorial regulations, caretaker) for corporations. These corporations control nearly all formerly public services. The scarcely remaining public space is made available to citizens as <span class="need-clarification">commons*</span>. The government, which has increasingly withdrawn, has not given shape to it.
 
-*Volgens Nobelprijswinnaar Elinor Ostrom zijn commons “gedeelde hulpbronnen (of platforms) die worden
-gecreëerd en verzorgd door een gebruikersgemeenschap, volgens haar eigen afspraken, regels en normen.”
+* According to Nobel Prize winner Elinor Ostrom, commons are “shared resources (or platforms) that are created and provided by a user community, according to its own agreements, rules, and standards.”6
 {:.clarification}
