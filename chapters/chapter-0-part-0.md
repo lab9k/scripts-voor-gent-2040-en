@@ -1,16 +1,14 @@
 ---
 layout: chapter
-title: Wat
+title: What
 part: 0
 chapter: 0
 ispart: false
 permalink: /wat/
 indentlevel: 1
 ---
-Op deze website zijn vier mogelijke toekomstscenario's voor Gent in 2040 te lezen.
+This website presents four possible futures for Ghent in 2040.
 
-De scenario's komen niet zomaar uit de lucht gevallen. Ze bestaan uit verschillende bouwstenen, die we verzamelden bij experten en bij onze collega's van Groep Gent. 
-Hun inzichten op mogelijke toekomsten voor Gent op het vlak van mobiliteit, energie, werk, sociale cohesie, cultuur... werden verwerkt in de scenario's. 
-Daarnaast baseren we ons ook op eigen onderzoek naar bestaande trends en 'emerging issues'. 
+These scenarios don't come out of thin air. The were carefully scripted using different kind of building blocks collected with several experts and over onehundred local civil servants. Their insights about possible futures for Ghent in the domains of mobility, energy, labour, social cohesion, culture, leisure... were scripted into the scenarios. Additionally, we used insights from our own trend- and emergin issues-research.
 
-We wensen jullie veel leesplezier met deze 'Vier scripts voor Gent 2040. Mensen en technologie in de stad van morgen'! 
+We wish you an interesting read of 'Four scripts for Ghent 2040. People and technology in the city of the future'.
