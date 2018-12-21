@@ -3,23 +3,31 @@ layout: chapter
 part: 1
 chapter: 6
 permalink: /geslaagde-werkelijkheden/
-title: Gelaagde Werkelijkheden
+title: Layered realities
 indentlevel: 1
 ---
 
-"Onze technologie zal haast onherkenbaar zijn maar het belangrijkste blijft wat we er mee doen."
+"Our technology will be
+nearly unrecognizable,
+but what we do with
+it remains the most
+important thing of all."
 {:.quote}
 
-In het voorgaande beschreven we de meest zichtbare eigenschappen van de vier versies van Gent in 2040. We kunnen deze beschouwen als ‘het tipje van de ijsberg’ en op zoek gaan naar wat daar nog onder zit. De centrale vraag in dit deel is dan ook: wat zit er achter de meest herkenbare karakteristieken van de vier geschetste werkelijkheden?  Laag per laag, graven we nog wat dieper.
+**In the preceding pages, we described the most visible characteristics of the four versions of Ghent in 2040. We can consider these as the ‘tip of the iceberg’ and look for what’s underneath. Therefore, the central question in this part is: What is behind the most recognizable characteristics of the four outlined realities? Layer by layer, we will dig a little deeper.**
 
-**De eerste laag:** feiten. Aan de oppervlakte van elk fenomeen in een maatschappij of een organisatie zit het meest zichtbare: gebeurtenissen, acties, conflicten… We beschrijven deze eerste laag van elk script daarom aan de hand van een nieuwstitel. Uiteraard kunnen er meerdere nieuwsfeiten plaatsvinden in elk van de vier werelden. Wij kiezen er één voorbeeld uit voor elk script. 
+**The first layer**: facts. At the surface of every phenomenon in a society or in an organization is the most visible: events, actions, conflicts... Therefore, we will describe this first layer of each
+script on the basis of a news title. Of course, more new facts may occur in each of the four worlds. We select one example for each script.
 
-**In de tweede** laag zitten de onderliggende systemen. Van elk nieuwsfeit kan een eerder objectieve analyse gemaakt worden die een ketting van oorzaak en gevolg blootlegt. Zo worden de systemen duidelijk die de feiten uit de scripts ondersteunen. 
+**The underlying systems are in the second layer.** An objective analysis can be performed on every news fact, uncovering a cause-and-effect chain. This clarifies the systems that support the
+facts in the scripts.
 
-**De derde laag** belicht wereldbeelden. Achter de systemen die we gebruiken om de feiten te begrijpen en te beheersen gaan specifieke wereldbeelden schuil. Dat zijn interpretaties van hoe mensen en dingen aan elkaar verbonden zijn en samen evolueren. 
+**The third layer elucidates worldviews.** Specific worldviews lurk behind the systems we use to understand and control the facts. These are interpretations of how people and things are interconnected
+and evolve together.
 
-**De laatste stap** gaat om verankerde metaforen. We leggen de diepgewortelde verhalen, mythes of metaforen bloot die de eigenlijke basis vormen voor de feiten uit 2040. Om effectieve veranderingen waar te maken, zijn deze narratieven van groot belang: Enkel als het verhaal waarop onze visies steunen verandert, kan de stad van de toekomst, haar mensen en haar technologie, mee veranderen. 
+**The final step revolves around embedded metaphors.** We uncover the deep-rooted stories, myths, or metaphors that form the actual basis for the facts from 2040. These narratives are paramount
+to realize efficacious changes: Only if the story which supports our visions changes, the city of the future, its people, and its technology can change accordingly.
 
-De vier gelaagde werkelijkheden die we hier weergeven zijn samengesteld door het onderzoeksteam op basis van de Causal Layered Analysis  scripting sessie en de backcasting aan het einde van het traject.
+The four layered realities we describe here were compiled by the research team based on the Causal Layered Analysis1 scripting session and the backcasting at the end of the process.
 
-Lees: Inayatullah, S. and Milojevic, I. (2015). CLA 2.0: Transformative research in theory and practice. Tamsui: Tamkang University Press.
+Read: Inayatullah, S. and Milojevic, I. (2015). CLA 2.0: Transformative research in theory and practice. Tamsui: Tamkang University Press.
