@@ -5,21 +5,21 @@ part: 2
 chapter: 2
 ispart: true
 permalink: /klimaat-cascade/bem/
-title: Bem (31 jaar)
+title: Bem (31 years old)
 indentlevel: 3
 ---
 
-## Brief aan zijn moeder in Kenia
+## Letter to his mother in Kenya
 
 <a href="{{ site.baseurl }}/images/Bem.jpg" data-lightbox="Bem"><img src="{{ site.baseurl }}/images/Bem.jpg"></a>
 
-Lieve mama, 
+Dear mom,
+It has been too long since I last wrote you. A lot has happened in the meantime. After all, I am no longer in the refugee camp in Brussels. A few months ago, I moved to Ghent, a city a couple of dozen kilometers away from Brussels. I live here with Rudo - who you still know from our village - and several other ‘new Ghentians’ in a vacant building that we have converted into a pretty cozy place to live and reside. Mom, after all these years of instability, I finally feel as if I can make myself somewhat useful and as if I matter again!
 
-Het is alweer veel te lang geleden dat ik je nog schreef. Er is intussen heel wat gebeurd. Ik zit immers niet langer in het vluchtelingenkamp in Brussel, maar verhuisde enkele maanden geleden naar Gent, een stad enkele tientallen kilometers van Brussel. Ik woon er samen met Rudo – die je nog wel kent van vroeger uit ons dorp – en een aantal andere ‘nieuwe Gentenaars’ in een leegstaand pand dat we hebben omgebouwd tot een behoorlijk knusse leef- en woonplek. Mama, na al die jaren van instabiliteit heb ik eindelijk het gevoel me opnieuw wat nuttig te kunnen maken en iets te betekenen! 
+Because although the city has degenerated considerably, and many people need to gather basic products, we do our very best to not throw in the towel. Based on the together-we-are-stronger idea, peer-to-peer networks shoot up like mushrooms here these days. As for me, I offer services as a handyman - you know how much I love doing that! - through online and real-life market places. These days, especially my talk and lessons on setting up Do-It-Yourself facilities for private energy production are very popular among the many Ghentians who are less well off. It just goes to show that our misery in Kenya and the way in which we have always managed for ourselves can still be of some use!
 
-Want hoewel de stad erg verloederd is, en het voor heel veel mensen sprokkelen is naar basisproducten, doen we ons uiterste best om het hoofd niet te laten hangen. Vanuit het idee ‘samen staan we sterker’ schieten de peer-to-peer netwerken hier tegenwoordig als paddenstoelen uit de grond. Ikzelf stel mijn diensten als klusser – je weet hoe graag ik dat doe! – ter beschikking via de online en real-life marktplaatsen. Vooral mijn praatje en lessen over het opzetten van Do-It-Yourself voorzieningen voor private energieproductie is tegenwoordig heel populair bij de vele Gentenaars die het wat minder breed hebben. Zo zie je maar dat onze miserie in Kenia en de manier waarop we onszelf altijd hebben weten te beredderen, dan toch nog van enig nut kan zijn! 
+Yesterday, a lot of people visited my stand at the meeting center of our neighborhood. I particularly received many questions regarding the use of the waste management compost bin for private heating. I promised them to organize a workshop on it next week. This allows me to collect all questions at once and help them on step by step. It would be nice if we could all go to the nursery garden afterwards, so we can have a little talk while harvesting. I think the atmosphere will be good, because for the first time since I’ve participated in maintaining the communal garden, our cultivation has managed to survive the sometimes extreme weather conditions. Who knows, perhaps Rudo will feel like cooking us something special and cozy with the harvest afterwards...
 
-Gisteren nog bezochten erg veel mensen mijn stand in het ontmoetingscentrum van onze wijk. Ik kreeg er vooral veel vragen rond het gebruik van de afvalverwerkingscompostbak voor privé-verwarming. Ik heb hen beloofd om er volgende week een workshop rond te organiseren, zo kan ik meteen alle vragen bundelen en hen stap-voor-stap op weg helpen. Het zou fijn zijn als we achteraf met z’n allen nog even naar de kweektuin kunnen, zodat we tijdens het oogsten nog wat kunnen napraten. De sfeer zal er denk ik goed inzitten, want voor het eerst sinds ik zelf deelneem aan het onderhoud van de gemeenschappelijke tuin, heeft onze teelt de soms extreme weersomstandigheden weten te doorstaan. Wie weet heeft Rudo daarna wel zin om met de oogst gezellig voor ons te kokerellen… 
-Maar wat mis ik jou en je lekkere eten, lieve mama. Laat me snel weten hoe het jou daar vergaat! 
+But dear mom, what I miss most are you and your delicious food. Let me know how you are doing there soon!
 
-Liefs, Bem
+Love, Bem
