@@ -4,30 +4,89 @@ author:
 part: 1
 chapter: 4
 permalink: /eclectische-stroom/
-title: Eclectische Stroom
+title: Eclectic Current
 chaptermarker: true
 indentlevel: 2
 ---
 
 <a href="{{ site.baseurl }}/images/Ruimte_1.jpg" data-lightbox="Eclectische Stroom"><img src="{{ site.baseurl }}/images/Ruimte_1.jpg"></a>
 
-Door de afbrokkeling van de grote mogendheden na de jaren ‘10, vonden Europese regio’s een nieuw elan gebaseerd op ver doorgedreven technologische ontwikkelingen. De internationale corporaties van weleer blijven schaalvoordeel kennen, maar ze werken nu net als de internationale sectorfederaties op basis van volledige transparantie – en in de EU ook volledig zonder winstbejag. Er wordt volop ingezet op voortdurende sociale en maatschappelijke innovatie, naast technologische innovatie. Hoewel klimaatverandering zijn gevolgen laat gevoelen, is de stad zelf volledig klimaatneutraal. Gent was er vroeg bij en loopt daardoor nog steeds voor op de meeste andere Vlaamse steden, in het bijzonder op het vlak van energievoorziening.
+Due to the crumbling of the superpowers after the tens, European regions found a new verve
+based on strongly persevered technological developments. The international corporations of
+the olden days keep benefiting from economies of scale, but like the international sector federations,
+they currently work based on full transparency - and without seeking any profit in the EU.
+All efforts are directed to permanent social and societal innovation, in addition to technological
+innovation. Although the consequences of climate change are felt, the city is completely ‘climate
+neutral.’ Ghent was a pioneer, which is why it is still ahead of most other Flemish cities, especially
+in the area of energy supply.
 {:.chapter-intro}
 
-**TECHNOLOGIE:** Technologieën blijven snel evolueren. Ze zijn transparant en open source. Technologische systemen worden ontworpen voor vertrouwen in plaats van beveiliging. Een autonome, intelligente digitale hub verzorgt lokale materiële en sociale samenhorigheid met respect voor privacy. Het dirigeert ook gezondheid, mobiliteit, bevoorrading en infrastructuur van draadloze elektriciteit en ook stedelijke <span class="need-clarification">swarm robotics*</span>.
+**TECHNOLOGY**: Technologies continue to evolve rapidly.
+They are transparent and open source. Technological systems
+are designed for trust rather than security. An autonomous,
+intelligent digital hub provides local material and
+social solidarity with respect for privacy. It also steers
+health, mobility, supply, and infrastructure of wireless
+electricity as well as urban <span class="need-clarification">swarm robotics*</span>.
 
-*Multi-robotsystemen die bestaan uit grote aantallen eenvoudige robots en waarvan het collectief gedrag ontstaat uit de interacties tussen de robots en de interacties van de robots met de omgeving, noemen we swarm-robotica.
+* Multi-robot systems that consist of large numbers
+of simple robots and whose collective behavior
+arises from the interactions between the robots and
+the interactions of the robots with the environment
+are called swarm robotics.
 {:.clarification}
 
-**BEVOLKING:** Gent heeft een superdiverse bevolking: een brede waaier van minderheden vormt de meerderheid. Er is een fluïde definitie van identiteiten met aandacht voor gelijkheid. Mensen wonen op extreem kleine oppervlakten, vaak als gezin maar ook in cohousing-projecten. Door de complexiteit van sociale relaties en de beperkte scheiding tussen leven en werken, komt de mentale gezondheid van sommige leden van de bevolking in het gedrang.
+**POPULATION**: Ghent has a super-diverse population. A
+wide spectrum of minorities are the majority. There is a
+fluid definition of identities with attention to equality.
+People live on extremely small surfaces, often as families,
+but also in co-housing projects. Because of the complexity
+of social relationships and the limited separation between
+life and work, the mental health of some members of the
+population is jeopardized.
 
-**ECONOMIE:** Winst is in Vlaanderen een concept uit het verleden, tot spijt van sommigen die vinden dat hun levensstandaard en de beloning voor individuele inspanningen erop achteruit gingen.  Dit is een evenwichtige, steady-state economie, er is dus geen economische groei. Overproductie of overconsumptie worden vermeden. Productie gebeurt lokaal en kwaliteit wordt centraal gezet. Elke onderneming is een sociale onderneming en daarnaast is er een goedwerkende deeleconomie. Cybersystemen houden de flow van goederen en diensten in balans. Minimum en maximum inkomens en prijsregulering worden door de overheid opgelegd.
+**ECONOMY**: In Flanders, profit is a concept of the past,
+to the regret of those who believe that their standard of
+living and the reward for individual efforts are deteriorating.
+This is a well-balanced, steady-state economy, which
+means there is no economic growth. Overproduction or
+overconsumption are avoided. Production is done locally
+and quality is centralized. Each company is a social company.
+In addition, there is a well-functioning sharing economy.
+Cyber systems keep the flow of goods and services
+in balance. Minimum and maximum incomes and price
+regulation are imposed by the government.
 
-**ECOLOGIE:** Gent is op schema om haar klimaatambities waar te maken. De luchtkwaliteit is er goed. Extreme weerfenomenen zijn echter moeilijk op te vangen met lokale maatregelen alleen, de periodieke waterschaarste is daarvoor illustratief. De transitie naar ecologische duurzaamheid wordt mee mogelijk gemaakt door Artificiele Intelligentie gestuurde systemen.
+**ECOLOGY**: Ghent is on track to realize its climate
+ambitions. The air quality is good here. Extreme
+weather phenomena, however, are difficult to deal
+with by solely taking local measures. The intermittent
+water scarcity is illustrative of this. The transition
+to ecological sustainability is partly made possible by
+systems driven by Artificial Intelligence.
 
-**ENERGIE:** Gent maakt haast exclusief gebruik van hernieuwbare energie. Goede energieopslagsystemen hebben de decentralisatie van energieopwekking mogelijk gemaakt. Kinetische energie en lichaamswarmte voeden persoonlijke toestellen. Goederen- en personentransport zijn aanzienlijk afgenomen in volume.  
+**ENERGY**: Ghent almost exclusively uses renewable energy.
+Good energy storage systems have enabled the decentralization
+of energy generation. Kinetic energy and body heat
+fuel personal devices. The transportation of goods and
+passengers has decreased significantly in volume.
 
-**CULTUUR:** Solidariteit en sociale verbondenheid tussen generaties en mensen van uiteenlopende etnische origine zijn sterk. Een “goed leven” en maatschappelijke verbondenheid staan centraal in het Gentse leven. In Gent is er een sterke ‘stedelijke cultuur’ wat betekent dat er voor verschillende doelpublieken uiteenlopende mogelijkheden zijn binnen een relatief kleine oppervlakte. Wonen, werken, leven lopen door elkaar. Er zijn geen gespecialiseerde residentiële of handelswijken, die functies lopen door elkaar. In elke wijk is er ook stedelijke landbouw. Bruggen tussen mensen met zeer verschillende culturele achtergronden worden geslagen met behulp van technologische toepassingen - maar ook met die ondersteuning worden de variaties voor sommigen te veel.  
+**CULTURE**: Solidarity and social connectedness between
+generations and people of diverse ethnic origin are strong.
+A ‘good life’ and societal solidarity are central in life in
+Ghent. There is a strong ‘urban culture’ in Ghent, which
+means that there are diverse opportunities for different
+target audiences within a relatively small surface. Residence,
+work, and life are intertwined. There are no specialized
+residential or trade districts. These functions are
+intertwined. Urban agriculture also exists in every district.
+Bridges between people with very different cultural backgrounds
+are built by means of technological applications,
+but even with this support, the variations become too
+much for some.
 
-**BELEID:** Lokale overheden hebben een grote autonomie. Net zoals andere organisaties, bundelen lokale overheden de krachten door samen te werken in federaties. Het is hun doel om de transformatie die de laatste twintig jaar heeft plaatsgevonden, te verankeren. Directe democratie ondersteunt geëngageerde autonome lokalisering. 
-
+**POLICY**: Local governments have great autonomy. Like
+other organizations, local governments join forces by
+working together in federations. It is their goal to embed
+the transformation that occurred in the past twenty years.
+Direct democracy supports engaged autonomous localization.
