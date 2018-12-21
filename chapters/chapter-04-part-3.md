@@ -5,27 +5,25 @@ part: 3
 chapter: 4
 ispart: true
 permalink: /eclectische-stroom/malika/
-title: Malika (31 jaar)
+title: Malika (31 years old)
 indentlevel: 3
 ---
 
-## Zaakvoerder mobiliteitsbedrijf ‘Mobifiel’ & flex-ambtenaar Mobiliteit
+## Business manager of mobility company ‘Mobifiel’ & flexible civil servant Mobility
 
 <a href="{{ site.baseurl }}/images/Malika.jpg" data-lightbox="Malika"><img src="{{ site.baseurl }}/images/Malika.jpg"></a>
 
-Toen ik deze avond onze zoon Jon ging oppikken van school, vroeg zijn mentor me hoe het met mij ging. 
-‘Druk’, zei ik, ‘één van de mobiliteitsbedrijven is uit de samenwerking gezet. Een werknemer heeft gelekt dat ze via een hack consistent aangevraagde ritten hebben achtergehouden om er hun eigen wagens op af te sturen’. 
+This evening, when I picked our son Jon up from school, his mentor asked me how I was doing. 
+“Busy,” I said, “one of the mobility companies has been removed from the cooperation. An employee leaked that they consistently withheld requested trips through a hack to send their own vehicles there.” 
 
-Ik run namelijk een bedrijf van modulair personenvervoer op aanvraag. Alle lokale mobiliteitsbedrijven werken samen in één contract met het stadsbestuur. We delen info en klantenaanvragen met elkaar, waardoor we onze gezamenlijke pool aan wagens zeer efficiënt kunnen inzetten. Dat is goed voor de Gentenaar en het milieu. 
+You see, I run a company for modular passenger transportation on request. All local mobility companies cooperate through one contract with the city council. We share information and customer requests with each other, which allows us to deploy our joint pool of vehicles very efficiently. The people of Ghent and the environment benefit from this. 
 
-De mobiliteitsdata wordt geanalyseerd door Artificiële Intelligentie, die het hele systeem aanstuurt. Maar deze week is dus ontdekt dat iemand binnen de samenwerking dergelijke info heeft achtergehouden voor eigen winst. Dat kunnen wij niet aanvaarden, we hebben besloten ze uit de samenwerking te zetten. We zijn al bezig met de heropstart van een nieuwe patch en een nieuwe partner, maar dat kan nog even duren. Tot dan doen wij overuren. 
+The mobility data is analyzed by Artificial Intelligence, which directs the entire system. But like I said, this week, it became clear that someone within the cooperation withheld such information for their own gain. We cannot accept that. We decided to remove them from the cooperation. We are already working on restarting a new patch and a new partner, but it may take a while. Until then, we will work overtime. 
 
-Aan het begin van het schooljaar legden alle ouders hun beschikbaarheid voor bijdragen aan schoolse activiteiten al eens uit aan de mentorgroep voor sociale dynamiek. Ik werk voltijds, dat wil zeggen: achtentwintig uur per week. Acht uur daarvan werk ik als flex-ambtenaar bij de mobiliteitsdienst van de stad. Daar kunnen ze mijn praktijkexpertise goed gebruiken. Maar nu zullen we dus even een tandje moeten bijsteken. Dat is geen probleem, ik doe het graag. Mobiliteit is bovendien belangrijk voor de leefbaarheid, ik haal veel voldoening uit mijn inzet op dat gebied. 
+At the beginning of the school year, all parents already explained their availability for contributions to school activities to the mentor group for social dynamics. I work fulltime, which means: twenty-eight hours a week. I spend eight of these hours working as a flexible civil servant at the city’s mobility service. There, they can really use my practical experience. But now, we will have to step up for a while. It is no problem, I like doing it. Moreover, mobility is important for livability. I really reap satisfaction from my commitment in this area. 
 
-Mijn vrouw Elisa werkt niet. Zij haalt voldoening uit haar hobby’s en uit de tijd met de kinderen. Ze gaat ook vaak helpen op school als één van de klasouders. Dat is mogelijk sinds het basisinkomen voor iedereen werd ingevoerd. Ze ziet er nu veel gelukkiger uit. Maar ik, ik moet kunnen bezig zijn en heb nood aan mijn eigen projecten. 
+My wife Elisa doesn’t have a job. She reaps satisfaction from her hobbies and from spending time with the children. Also, she often helps the school as one of the class parents. This has been possible since the introduction of the guaranteed minimum income for everyone. She looks much happier now. But me, I should be able to be busy, and I need my own projects. 
 
-‘Elisa komt deze week een aantal dagen helpen, niet?’, vraag ik aan Jons mentor. 
-‘Ja, klopt’, zegt de mentor, ‘Het komt goed uit ook, want we hebben veel plannen buiten het klaslokaal. We gaan naar de Overmeers om het ecosysteem te bestuderen én we gaan ook een keer de stad in om onze ontmoetings- en introductievaardigheden te oefenen’. 
-‘Klinkt tof’, zeg ik. Ik ga naar huis samen met ons zoontje. Ik kijk uit naar de maaltijd vanavond. Het is vrijdag, dan kijken alle buren in de gedeelde digitale keuken welke overschotten er nog in ieders koelkasten liggen. We verzamelen dan alles en maken een lekkere maaltijd voor de hele verdieping in de gemeenschappelijke keuken. 
+“This week, Elisa will come over to assist for a few days, won’t she?” I ask Jon’s mentor. “That is correct,” says the mentor. “It is perfect timing, because we have a lot of plans outside the classroom. We will head to the Overmeers to study the ecosystem and we will also go into the city once to practice our meeting and introduction skills.” 
+“Sounds cool,” I say. I go home with our son. I’m looking forward to tonight’s meal. It is Friday, which means all neighbors will look in the shared digital kitchen to see which leftovers are still in everyone’s refrigerators. Then, we collect everything and prepare a nice meal for the entire floor in the communal kitchen. It’s always delicious, and it’s nice to get together!
 
-Altijd lekker, en gezellig samen!
