@@ -1,14 +1,12 @@
 ---
 layout: chapter
-title: Wie
+title: Who
 part: 1
 chapter: 0
 ispart: false
 permalink: /wie/
 indentlevel: 1
 ---
-Deze 'Vier scripts voor Gent 2040. Mensen en technologie in de stad van overmorgen.' is een realisatie van het [Foresight team](https://twitter.com/foresightgent) van [Digipolis Gent](https://www.digipolis.be). 
+The 'Four scripts for Ghent 2040. People and technology in the city of the future' is a product of the [Digipolis Gent](https://www.digipolis.be) [Foresight team](https://twitter.com/foresightgent), in very close cooperation with the Erasmus University College Brussels' [Open Time](https://www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time) researchers. 
 
-Het traject werd begeleid door [Open Time](https://www.erasmushogeschool.be/nl/praktijkgericht-onderzoek/open-time) van de Erasmus Hogeschool Brussel.
-
-Meer info en contactinformatie in de [colofon](https://lab9k.gent/scripts-voor-gent-2040/colofon/).
+More information can be found in the [colofon](https://lab9k.gent/scripts-voor-gent-2040/colofon/).
