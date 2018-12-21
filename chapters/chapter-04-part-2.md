@@ -5,22 +5,22 @@ part: 2
 chapter: 4
 ispart: true
 permalink: /eclectische-stroom/gust/
-title: Gust (27)
+title: Gust (27 years old)
 indentlevel: 3
 ---
 
-## Interview voor het studentenblad van de opleiding psychologie
+## Interview for the psychology program’s student magazine
 
 <a href="{{ site.baseurl }}/images/Gust.jpg" data-lightbox="Gust"><img src="{{ site.baseurl }}/images/Gust.jpg"></a>
 
-**Gust, jij bent zelf nog niet zo heel lang geleden afgestudeerd binnen onze opleiding en toch lijk je al goed je weg te hebben gevonden in je jonge loopbaan. Kan je even kort vertellen wat je doet?**
+**Gust, you graduated from our department not very long ago, and yet you already seem to have found your way in your young career. Can you briefly tell us what you do?**
 
-Na mijn afstuderen ging ik aan de slag bij Re-Track, een Gentse sociale onderneming die mensen die psychologische hulp nodig hebben, ondersteunt en begeleidt. De eerste twee jaar werkte ik er als operator en nu ben ik er al drie jaar personal assistant. Via het Mobile Health Monitoring systeem krijgen we dagelijks automatische oproepen binnen van mensen die worstelen met psychologische problemen. Het is onze taak om die problemen aan te pakken. 
+After graduating, I started working for Re-Track, a Ghentian social company that provides people who need psychological help with support and guidance. The first two years, I worked as an operator, and for the past three years, I’ve been a personal assistant. Every day, we receive automatic calls from people who struggle with psychological problems through the Mobile Health Monitoring. It is our job to address these problems.
 
-**Over welke problemen gaat het dan precies en hoe gaan jullie daarmee om?**
+**What types of problems are these exactly, and how do you deal with them?**
 
-De meeste van die problemen hebben te maken met de tijdsgeest waarin we leven. Automatisering heeft veel jobs overgenomen en de  robotica zorgen ervoor dat we ons ook niet meer druk hoeven te maken over huishoudelijke taken. Dat voelt voor heel veel mensen bevrijdend aan, maar we merken ook dat dit voor een minderheid, voornamelijk alleenstaande 50-plussers, tot een gevoel van een verlies van eigenwaarde leidt. Het is mijn taak om deze mensen te begeleiden in hun zoektocht naar zingeving.
+Most of these problems are related to the spirit of the times we live in. Automation has taken over many jobs and because of robotics, we no longer have to worry about domestic tasks, either. This feels very liberating for many people, but we have also noticed that for a minority, especially single people over 50, it results in a sense of losing their self-esteem. It is my job to provide these people with guidance in their search for a purpose in life.
 
-**Klopt het dat je daarbij vaak fungeert als ‘toeleider’ naar andere Gentse initiatieven?**
+**Is it correct that in doing so, you often serve as a ‘guide’ to other Ghentian initiatives?**
 
-Dat klopt, daar maak ik maar wat graag een punt van. Mensen met een creatieve geest stuur ik bijvoorbeeld vaak door naar één van de digitale kunst- en cultuur uitwisselingsplekken. En mensen met een van nature nieuwsgierige ingesteldheid motiveer ik geregeld om kortstondige, maar intensieve opleidingen te volgen. Hoewel die opleidingen ook van thuis uit kunnen gevolgd worden, raad ik hen steevast aan om de sessies live bij te wonen in het Gentse KnowLab, ter bevordering van hun sociaal contact. En mensen met een gevoel voor engagement stimuleer ik dan weer vaak om een projectvoorstel in te dienen bij het GDDP (Gents Democratisch Digitaal Platform, nvdr) en zelf op zoek te gaan naar voldoende draagvlak voor hun voorstel. Zulke initiatieven laten die mensen toe om op zoek te gaan naar hun eigen waarden en eigenwaarde en opnieuw voldoening te halen uit wat ze doen. Het is fantastisch om hen zo te zien openbloeien.
+That is correct, I really like pointing these out. For example, I often refer people with creative minds to one of the digital arts and culture exchange sites. And I regularly motivate people with a naturally inquisitive attitude to take short but intensive training courses. Although these training courses can also be taken from home, I always recommend that they attend live sessions in the Ghentian KnowLab to promote their social contact. On the other hand, I often encourage people with a sense of commitment to submit a project proposal to the GDDP (Ghentian Democratic Digital Platform, Ed.) and look for sufficient support for their proposal. Such initiatives allow these people to look for their own values and self-esteem and once again reap satisfaction from what they do. It is great to see them flourish like that.
