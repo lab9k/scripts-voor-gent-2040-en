@@ -4,32 +4,32 @@ author:
 part: 1
 chapter: 2
 permalink: /klimaat-cascade/
-title: Klimaat Cascade
+title: Climate Cascade
 chaptermarker: true
 indentlevel: 2
 ---
 
 <a href="{{ site.baseurl }}/images/Ruimte_4.jpg" data-lightbox="Klimaat Cascade"><img src="{{ site.baseurl }}/images/Ruimte_4.jpg"></a>
 
-Snelle en doorgedreven klimaatverandering heeft een nadelig domino-effect gehad op de wereldeconomie. Europese steden zoals Gent kunnen de hierdoor snel groeiende laag armen niet opvangen. Desondanks stelt de Gentse bevolking het in vergelijking met die van andere Europese steden nog relatief goed. Daarom vormt ze een goed bediende afzetmarkt voor de overblijvende internationale economische actoren. Coöperatieven van micro-ondernemers in allerlei sectoren steunen op oude technologische platformen voor hun werk. Oude en nieuwe technologieën worden door elkaar gebruikt. Systemen die het mogelijk maken deze effectief te combineren, zijn cruciaal voor het in stand houden van de overblijvende economische activiteit. De overheid staat in voor de verbindende infrastructuur en geeft verder de bottom-up initiatieven vrij spel om kleinschalige oplossingen voor grootschalige problemen te helpen waarmaken.
+Fast and persevering climate change initiated a domino effect detrimental to the global economy. As a result, European cities such as Ghent cannot deal with the rapidly growing layer of poor people. Nevertheless, the Ghentian population is doing relatively well compared to those of other European cities. Therefore, it is a well-served market for the remaining international economic actors. Cooperatives of micro-entrepreneurs in a variety of sectors rely on old technological platforms for their work. Old and new technologies are used interchangeably. Systems that enable the effective combination of these are crucial for maintaining the remaining economic activity. The government guarantees the connecting infrastructure for connectivity. Furthermore, it allows bottom-up initiatives free scope to help realize small-scale solutions to large-scale problems.
 {:.chapter-intro}
 
-**TECHNOLOGIE:** Technologische vooruitgang is sterk vertraagd in de laatste twee decennia. Toepassingen voor het integreren van verschillende generaties technologie zorgen voor een eclectisch geheel van aan elkaar verbonden systemen. De verbindingen die het mogelijk maken dat niet op elkaar afgestemde toepassingen toch samenwerken, zijn cruciaal. Technologie biedt belangrijke hulpmiddelen voor micro-ondernemer* en micro-taskers*. 
+**TECHNOLOGY**: Technological progress has slowed down considerably in the last two decades. Applications for integrating various generations of technology provide an eclectic whole of interconnected systems. Connections that enable non-aligned applications to work together are crucial. Technology offers important tools for <span class="need-clarification">micro-entrepreneurs*</span> and <span class="need-clarification">micro-taskers*</span>.
 
-*Micro-ondernemers zijn zeer kleinschalige ondernemingen van mensen die handel voeren of individuele diensten leveren zonder een grote ondersteunende bedrijfsstructuur. ZIj doen alles zelf waardoor een grens is aan de winst die ze kunnen maken.
+* Micro-entrepreneurs are very small-scale companies of people who trade or provide individual services without a large supporting business structure. They do everything by themselves, which means that there is a limit to the profit they can make.
 {:.clarification}
 
-*Micro-taskers zijn mensen die tegen betaling kleine punctuele taken uitvoeren. Ze zijn niet in loondienst en worden per taak betaald.
+* Micro-taskers are people who carry out small punctual tasks against payment. They are not employed and are paid per task.
 {:.clarification}
 
-**BEVOLKING:** Een massa klimaatvluchtelingen klopt aan bij Europese landen. Ook Gent kent een grote instroom van klimaatvluchtelingen. De sociale ongelijkheid is groot. Er is een hoge werkloosheidsgraad, slechts twee derden van de actieve bevolking is aan de slag. Zij beschikken nog over enige koopkracht en vormen een goede afzetmarkt voor de producten van de overblijvende internationale economische spelers. Eén op vijf bewoners leeft onder de armoedegrens en kan dus niet in dagelijkse basisbehoeften voorzien.
+**POPULATION**: A crowd of climate refugees come to European countries. Ghent, too, has a large influx of climate refugees. Social inequality is large. There is a high unemployment rate - only two thirds of the active population are working. They still have some purchasing power and are a good market for the products of the remaining international economic players. One in five residents live below the poverty line, which means they cannot meet daily basic needs.
 
-**ECONOMIE:** Er is al bijna een decennium lang feitelijke wereldwijde economische achteruitgang. Internationale corporaties richten zich nog steeds op goedkope productie en consumptie, maar de overvloed van het begin van de eeuw is voorbij. Coöperatieven van micro-ondernemers staan in voor lokale dienstverlening en productie en zelfs een groot deel van de detailhandel. Zij ontstonden vanuit de deelplatformen van het tweede decennium van de eeuw. De armste laag van de bevolking tracht aan de bak te komen met micro-tasking zonder enige inkomenszekerheid. 
+**ECONOMY**: For nearly a decade, there has been an actual global economic decline. International corporations still focus on inexpensive production and consumption, but the abundance of the beginning of the century is over. Cooperatives of micro-entrepreneurs guarantee local services and production and even a large part of retail trade. They emerged from the sub-platforms of the second decade of the century. The poorest layer of the population tries to get a job through micro-tasking without any income security.
 
-**ECOLOGIE:** Klimaatverandering is snel en duidelijk voelbaar geworden, zowel globaal en lokaal. Ook de luchtkwaliteit is slecht en dit tast de volksgezondheid aan. Afvalverwerking is een belangrijke economische sector en gebeurt nagenoeg volledig lokaal. Er is een goed draaiend circuit voor hergebruik en voor de recuperatie van basismaterialen. 
+**ECOLOGY**: Climate change has quickly and clearly become tangible, both at a global and local level. The air quality is also poor, which affects public health. Waste disposal is an important economic sector and is handled almost entirely at a local level. There is a well-functioning cycle for reuse and for the recycling of basic materials.
 
-**ENERGIE:** Energievoorziening is een grote uitdaging voor de stad en haar inwoners. Energiezuinige toepassingen worden zo veel mogelijk ingezet, maar dit kan het tekort aan energie niet oplossen. Voor transport en privéverwarming zijn fossiele brandstoffen opnieuw belangrijker geworden in heel Europa. 
+**ENERGY**: Energy supply is a major challenge for the city and its residents. Energy-saving applications are deployed to the highest possible extent, but cannot solve the shortage of energy. Fossil fuels have once again become more important for transportation and private heating throughout Europe.
 
-**CULTUUR:** Er is een grote onderlinge solidariteit die zich uit in kleinschalig, lokaal delen en sterke back-to-basics attitudes. Er is een levendig circuit van de amateurkunsten.  
+**CULTURE**: There is a great mutual solidarity that manifests itself in small-scale, local sharing and strong back-to-basics attitudes. There is a lively circle of amateur arts.
 
-**BELEID:** De Belgische en Europese overheden werken behoudsgezind en pragmatisch, probleemoplossend. De Gentse overheid geeft de grootst mogelijke bewegingsruimte aan gemeenschapsinitiatieven en individueel ondernemerschap. De teruggetrokken overheid investeert in het onderhoud en de verbinding van technologische infrastructuur, meer dan in vernieuwing of dienstverlening of in publieke ruimte. De democratie is erg verzwakt.
+**POLICY**: The Belgian and European governments work in a conservative and pragmatic, problem-solving way. The Ghentian government gives the greatest possible elbow room for community initiatives and individual entrepreneurship. The withdrawn government invests in the maintenance and connection of technological infrastructure - more than in innovation or services or public space. The democracy has weakened considerably.
