@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Welkom in Gent 2040
+title: Welcome to Ghent 2040
 part: 3
 chapter: 0
 ispart: false
@@ -8,68 +8,97 @@ permalink: /welkom-in-gent-2040/
 indentlevel: 1
 ---
 
-**Welkom in Gent 2040**. De toekomstverkenners van
-het Digipolis Foresight team en het kenniscentrum Open
-Time nemen u graag mee in de tijd, naar 2040.
-Uiteraard kunnen we niet voorspellen wat er
-zal gebeuren, welke keuzes we zullen maken, met welke
-kansen en uitdagingen we te maken krijgen of welke (on)verwachte gebeurtenissen onze omgeving vorm zullen
-geven. Toch kunnen we ons oriënteren met het oog op een
-langere termijn dan die van enkele jaren. Gent baant zich
-hoe dan ook een weg naar overmorgen, dwars doorheen
-een complex en soms contradictorisch heden. Deze scripts
-en het bijhorende kompas bieden we aan als mogelijke
-oriëntatie-instrumenten. We focussen daarbij op de technologie
-waarmee we werken, leren, leven en spelen; en
-die tegelijkertijd zowel een motor van verandering als het
-voorwerp van verandering kan zijn.
+**Welcome to Ghent 2040**. The explorers of the future,
+consisting of the Digipolis Foresight team and researchers
+at the Open Time Research Center, invite you on a journey
+into the future. We will travel no less than 22 years forward
+in time. Of course, we cannot predict what will happen,
+what choices we will make, what opportunities and
+challenges await us, or which (un)expected events will
+shape our environment. Nevertheless, we can reflect on
+what could lie beyond the horizon of the next few years.
+Whatever happens, Ghent is making its way into the future
+through a complex and sometimes contradictory present.
+These scripts and the accompanying compass can be used
+as orientation tools. We focus on the technologies that we
+use for the purpose of working, learning, living, and playing,
+and that can simultaneously be drivers of change as
+well as what is being changed.
 
-**Welkom in Gent 2040**. Weinig is hier nog hetzelfde
-als 23 jaar geleden, toen meer dan honderd Gentse ambtenaren
-en tientallen experts zich bogen over de vraag
-hoe deze stad de komende decennia zou kunnen evolueren.
-We vertrokken toen van negen thema’s die de ruggengraat
-vormden van onze verkenning. De kernwoorden
-voor die thema’s waren: sociale stad, klimaatstad,
-mobiele stad, woonstad, ondernemende stad, lerende
-en scheppende stad, veilige en leefbare stad, samen stad,
-stadsorganisatie.
+**Welcome to Ghent 2040**. Little is still the same as 23
+years ago, when over one hundred Ghentian civil servants
+and dozens of experts looked at how this city could evolve
+in the coming decades. Then, our starting point consisted
+of nine themes, which formed the backbone of our exploration.
+The keywords for these themes were: social city,
+climate city, mobile city, residential city, entrepreneurial
+city, learning and creating city, safe and livable city, participating
+city, city organization.
 
-**Welkom in Gent 2040**. Met een <span class="need-clarification">horizonscan*</span>, de input
-van thematische experten, een reeks toekomstsessies,
-een conferentie en workshops met ambtenaren van de
-stad Gent, verzamelden we de bouwstenen voor vier zeer
-verschillende toekomstbeelden. Deze bouwstenen geven
-een concrete vorm aan de toekomstmogelijkheden die we
-bespreken. Het zijn de factoren en actoren, de feiten en de
-functies waarmee de scripts opgebouwd werden. 
+**Welcome to Ghent 2040**. Using a <span class="need-clarification">horizon scan*</span>, input
+from thematic experts, a range of future sessions, a conference,
+and workshops with civil servants from the City of
+Ghent, we collected the building blocks for four very different
+images of the future. These building blocks give concrete
+shape to the future possibilities which we discuss.
+They are the factors and actors, the facts and functions
+that were used to build the scripts.
 
-Horizonscannen doe je door in de media en andere
-kanalen systematisch te zoeken naar signalen die je
-kunnen helpen te anticiperen op veranderingen in de
-omgeving, bedreigingen en kansen, die vandaag nog
-weinig zichtbaar zijn.
+A horizon scan is performed by systematically
+searching the media and other channels for signals
+that can help you anticipate changes in the environment,
+threats and opportunities, which are only
+scarcely visible today.
 {:.clarification}
 
-**Welkom in Gent 2040**. Bij het uitschrijven van deze
-scenario’s hielden we rekening met wat als ‘wenselijk’ naar
-voor kwam in het geheel van de activiteiten, werkdocumenten,
-rapporten en nota’s. Deze onderdelen van een wenselijke
-toekomst zijn te bundelen in onderstaande visie:
+**Welcome to Ghent 2040**. When writing these scripts,
+we took into account which elements were marked as
+‘preferable’ in the whole of activities, working documents,
+reports, and memos. These elements of a preferable future
+can be combined in the vision described below:
 
-"In een complexe werkelijkheid waar digitalisering
-en automatisering steeds sneller gaan, streven we
-naar eenvoud, simpliciteit en duidelijke verbindingen
-tussen bestaande systemen. We zetten in
-op verbondenheid en sociaal contact, op zinvolle
-activiteit, kwaliteitsvolle vrije tijd en op duurzaamheid.
-Gent wordt een talentenregio en dé klimaatstad
-van Vlaanderen waar mobiliteit een basisrecht
-is en waarin globaal denken op co-creatieve
-wijze plaats vindt."
+In a complex reality where digitization and
+automation keep gaining pace, we strive for sobriety,
+simplicity, and straightforward connections
+between existing systems. We aim for solidarity
+and social contact, meaningful activities, qualitative
+leisure, and sustainability. Ghent will become
+a region full of talent and the go-to climate city in
+Flanders where mobility is a basic right and where
+people think globally in a co-creative way.{:.vision}
 
-**Welkom in Gent 2040**. De ambitie is niet om hier een ideale toekomst op te bouwen en te presenteren. Dat zou wat naïef zijn, in elke alternatieve toekomst bestaan immers dingen die als positief of negatief beschouwd zullen worden – afhankelijk van wie er kijkt. We zijn hier op zoek naar een reeks van toekomstbeelden die een waaier van mogelijkheden aantonen. In elk van de beelden werden meer en minder wenselijke deelaspecten opgenomen. In geen één van de scenario’s gaat alles tegelijk goed, maar altijd wordt ergens wel een deel van de visie waar gemaakt. Op deze manier kunnen we op realistische wijze belichten hoe, in uiteenlopende omstandigheden, verschillende aspecten van het leven in Gent in 2040 ingevuld kunnen worden. 
+**Welcome to Ghent 2040**. It is not our ambition to
+build and present an ideal future here, which would be
+rather naive. After all, every alternative future contains elements
+that may be considered either positive or negative,
+depending on the person reviewing them. We are looking
+for a range of images of the future that show a spectrum
+of possibilities. More and less preferable sub-aspects have
+been included in each of the images. There is no scenario
+in which everything goes well simultaneously, but part of
+the vision is always realized somewhere. This allows us
+to elucidate in a realistic way how different aspects of life
+in Ghent in 2040 can be given shape to in various circumstances. 
 
-**Welkom in Gent 2040**. Vooruitzichten voor technologische ontwikkelingen en hun toepassingen (uit horizonscans en de voorstellen van deelnemers aan het traject) zitten in de vier scripts verwerkt. De technologische uitdagingen zelf zijn hier niet de focus. Wel willen we stilstaan bij de manier waarop technologie gebruikt kan worden in de omstandigheden van de verschillende scripts. Hoe dan ook zal technologie een belangrijke rol spelen in het dagelijks leven en voor beleid, zeker wanneer op technologische innovatie ingezet wordt maar ook wanneer die innovatie zwakker is. 
+**Welcome to Ghent 2040**. Prospects for technological
+developments and their applications (from horizon scans
+and project participants’ proposals) are incorporated into
+the four scripts. Technological challenges do not form the
+focus. Instead, we want to dwell on the way in which technology
+can be used in the circumstances of the different
+scripts. In any case, technology will play an important
+role in daily life as well as for policies, especially when a
+commitment is made to technological innovation, but also
+when such innovation is weaker.
 
-**Welkom  in  vier  maal  Gent  2040**.  De  vier  toekomst-beelden die we hier voorleggen zijn opgesteld volgens de principes  van  de  vier  generische  alternatieve  toekomst-beelden van de Manoa School, ontwikkeld door het Hawaii Futures Research Centre aan de University of Hawaii . Deze toekomstbeelden  zijn  startpunten,  die  moeten  aanzetten  tot reflectie en debat. Uw eigen toekomstbeelden maken daarom  het  plaatje  compleet.  Wat  is  uw  visie?  Welke  van  de bouwstenen kan u gebruiken om daar zo dicht mogelijk bij te komen? Hoe ziet u de rol van technologie in Gent de komende twee decennia?
+**Welcome to Ghent 2040**.  The four images
+of the future that we present here have been drafted
+according to the principles of the four generic alternative
+images of the future of the Manoa School, developed by
+the Hawaii Futures Research Centre at the University of
+Hawaii2. These images of the future are starting points
+which should prompt reflection and debate. Therefore,
+your own images of the future complete the picture. What
+is your vision? Which of the building blocks can you use to
+get as close to it as possible? How do you see the role of
+technology in Ghent over the next two decades?
