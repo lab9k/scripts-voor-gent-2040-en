@@ -4,7 +4,7 @@ author:
 part: 1
 chapter: 8
 permalink: /over-de-scripting/
-title: About the sripting
+title: About the scripting
 indentlevel: 1
 ---
 
