@@ -1,4 +1,6 @@
 destination: '_site'
-baseurl: '/scripts-voor-gent-2040'
+baseurl: '/scripts-voor-gent-2040-en'
 name: Vier scripts voor Gent 2040
+title: Vier scripts voor Gent 2040
 markdown: kramdown
+encoding: utf-8

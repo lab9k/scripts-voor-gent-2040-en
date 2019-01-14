@@ -4,3 +4,5 @@ _raw/
 .s3cfg
 _run.sh
 docs/
+vendor
+.bundle/config
